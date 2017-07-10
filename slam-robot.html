@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>SLAM Robot - Joshua Brown</title>
+	
+    <!-- css -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="css/nivo-lightbox.css" rel="stylesheet" />
+	<link href="css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+	<link href="css/animate.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/parallax.css" rel="stylesheet">
+
+	<!-- template skin -->
+	<link id="t-colors" href="color/default.css" rel="stylesheet">
+
+
+	<!-- Core JavaScript Files -->
+    <script src="js/jquery.min.js"></script>	 
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script src="js/jquery.scrollTo.js"></script>
+	<script src="js/nivo-lightbox.min.js"></script>
+    <script src="js/custom.js"></script>
+
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+
+
+<div id="wrapper">
+	
+    <nav class="navbar navbar-custom" role="navigation">
+        <div class="container navigation">
+		
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+			  <ul class="nav navbar-nav">
+				<li class="active"><a href="index.html">Home</a></li>
+				<li class="active"><a href="projects.html">Projects</a></li>
+				<li class="active"><a href="skills.html">Skills</a></li>
+				<li class="active"><a href="awards.html">Awards</a></li>
+				<li class="active"><a href="cv_joshua_brown.pdf">CV</a></li>
+				<li class="active"><a href="contact.html">Contact</a></li>
+
+			  </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+
+        </div>
+        <!-- /.container -->
+    </nav>
+	
+	<!-- Section: intro -->
+    <section id="intro" class="intro">
+		<div class="intro-content">
+			<div class="container">
+				
+				<div class="row">
+						<div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
+							<div style="padding-left:10px;padding-right:10px">
+							<h1>Raspberry Pi Based SLAM Robot</h1>
+							</div>
+
+							<div class="container">
+				
+				<div class="row">
+					<div class="col-sm-6 col-md-6 col-lg-6">
+					<div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
+						<h4 style="margin-bottom:10px">Technologies used:</h4>
+						<ul>
+						<li>Raspberry Pi</li>
+						<li>BrickPi</li>
+						<li>Simultaneous Localisation and Mapping</li>
+						<li>Probabalistic (Monte Carlo Method) Localisation</li>
+						<li>LEGO</li>
+						</ul>
+					</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-6">
+						<div class="wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.1s">
+						<h4 style="margin-bottom: 10px">Skills demonstrated:</h4>
+						<ul>
+						<li>Programming (Python)</li>
+						<li>Applied Mathematics (Proability)</li>
+						<li>Mechanical Engineering and Mechatronics</li>
+						<li>Teamwork</li>
+						</ul>
+					    
+						</div>
+						
+					</div>					
+				</div>		
+			</div>
+
+
+
+
+						<div style="background-color:lightgrey;padding:20px">
+							<h2>The Project</h2>
+							<p>This project aimed to use a Raspberry Pi with LEGO Mindstorms and Technic parts to create a mobile robotics platform that could be programmed with advanced localistion features. The basis for the robot is a LEGO chassis with two wheeled motors set up in a differential drive configuration, with a small skid supporting the weight at the back. The Robot was controlled using Python and when finished, was capable of wall following, maintaining a set distance to a moving object and identifying changes to a previously mapped space. We called it GEOFF!</p>
+						</div>
+						
+						<div class="para_co333_1"></div>
+
+						<div style="background-color:lightgrey;padding:20px">
+							<div class="row">
+								<div class="col-sm-6 col-md-6 col-lg-6">
+								<div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
+									<h2>Servoing and Sensing</h2>
+									<p>One of the key requirements of a mobile robot is the ability to combine smooth motion with the available data from outward looking sensors. Using an unltrasound sensor facing either forward or to the side, GEOFF was able to use the difference in speeds between the left and right wheels to smoothly maintain a set distance from a wall. By employing a PID controller, GEOFF could also maintain it's distance to a moving object approaching or retreating.</p>
+								</div>
+								</div>
+								<div class="col-sm-6 col-md-6 col-lg-6 slogan" align="center" style="position:relative;top:50%">
+									<div class="wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.1s">
+										<video width="270" height="270" controls>
+	  										<source src="movie.ogg" type="video/ogg">
+									        <source src="vid/co333/wall_following.mp4" type="video/mp4">
+									    </video>
+									</div>
+									
+								</div>					
+							</div>
+						</div>
+
+						<div class="para_co333_2"></div>
+
+						<div style="background-color:lightgrey;padding:20px">
+							<div class="row">
+								<div class="col-sm-6 col-md-6 col-lg-6">
+								<div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
+									<h2>Waypoint Navigation</h2>
+									<p>Using some basic trigonometry, GEOFF was programmed to move between waypoints given in cm from a pre determined origin. Initially, localisation was assumed to be 0,0,0 at startup and data from the wheels was used to determine good estimates for distances travelled and turned. As a proof of the path finding algorithm used, this worked quite well.</p>
+								</div>
+								</div>
+								<div class="col-sm-6 col-md-6 col-lg-6 slogan" align="center" style="position:relative;top:50%">
+									<div class="wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.1s">
+										<video width="480" height="270" controls>
+	  										<source src="movie.ogg" type="video/ogg">
+									        <source src="vid/co333/waypoints.mp4" type="video/mp4">
+									    </video>
+									</div>
+									
+								</div>					
+							</div>
+						</div>
+
+						<div class="para_co333_3"></div>
+
+						<div style="background-color:lightgrey;padding:20px">
+							<div class="row">
+								<div class="col-sm-6 col-md-6 col-lg-6">
+								<div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
+									<h2>Probabalistic Localisation</h2>
+									<p>The inaccuracies observed in odometry based localisation were caused by GEOFF's model of his own motion not considering all possible variables. Factors like friction, power supply drain and even the give in the carpet could lead to errors in position. The solution was to use data from the ultrasound sensor to determine where GEOFF was on a known map. To do this, GEOFF was programmed with a system of particles that represented many possible positions it could be in. Sensor data and a Monte Carlo Particle filter were then used to select the position that was most likely to be accurate and GEOFF operates under the assumption that this is correct. The potential for errors in the sensor give rise to a small area of particles after each movement, but the effect is that GEOFF's accuracy is much improved.</p>
+								</div>
+								</div>
+								<div class="col-sm-6 col-md-6 col-lg-6 slogan" align="center">
+									<div class="wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.1s">
+										<video width="480" height="270" controls>
+	  										<source src="movie.ogg" type="video/ogg">
+									        <source src="vid/co333/localisation.mp4" type="video/mp4">
+									    </video>
+									</div>
+									
+								</div>					
+							</div>
+						</div>
+
+						<div class="para_co333_4"></div>
+
+						<div style="background-color:lightgrey;padding:20px">
+							<div class="row">
+								<div class="col-sm-6 col-md-6 col-lg-6">
+								<div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
+									<h2>SLAM</h2>
+									<p>GEOFF's final challenge was to use occupancy mapping to scan a pre-mapped area and identify unexpeccted objects. This was done by scanning large regions and comparing the scanned maps with the stored maps. GEOFF was programmed to confirm identification of an unknown object by driving at it.</p>
+								</div>
+								</div>
+								<div class="col-sm-6 col-md-6 col-lg-6 slogan" align="center" style="position:relative;top:50%">
+									<div class="wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.1s">
+										<video width="480" height="270" controls>
+	  										<source src="movie.ogg" type="video/ogg">
+									        <source src="vid/co333/slam.mp4" type="video/mp4">
+									    </video>
+									</div>
+								</div>					
+							</div>
+						</div>
+					</div>					
+				</div>		
+			</div>
+		</div>		
+    </section>
+
+	<footer>
+	
+
+		<div class="sub-footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6 col-md-6 col-lg-6">
+					<ul class="social">
+						
+						<li><a href="https://twitter.com/JPB515"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="https://www.linkedin.com/in/joshua-brown-7368b5122/"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="https://github.com/JB515"><i class="fa fa-github"></i></a></li>
+						
+					</ul>
+				</div>
+				<div class="col-sm-6 col-md-6 col-lg-6">
+					<div class="wow fadeInRight" data-wow-delay="0.1s">
+					<div class="text-right margintop-30">
+					</div>
+					</div>
+				</div>
+			</div>	
+		</div>
+		</div>
+	</footer>
+
+</div>
+
+
+</body>
+
+</html>

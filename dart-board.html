@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>3D Video Conversion - Joshua Brown</title>
+	
+    <!-- css -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="css/nivo-lightbox.css" rel="stylesheet" />
+	<link href="css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+	<link href="css/animate.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/parallax.css" rel="stylesheet">
+
+	<!-- template skin -->
+	<link id="t-colors" href="color/default.css" rel="stylesheet">
+
+
+	<!-- Core JavaScript Files -->
+    <script src="js/jquery.min.js"></script>	 
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script src="js/jquery.scrollTo.js"></script>
+	<script src="js/nivo-lightbox.min.js"></script>
+    <script src="js/custom.js"></script>
+
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+
+
+<div id="wrapper">
+	
+    <nav class="navbar navbar-custom" role="navigation">
+        <div class="container navigation">
+		
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+			  <ul class="nav navbar-nav">
+				<li class="active"><a href="index.html">Home</a></li>
+				<li class="active"><a href="projects.html">Projects</a></li>
+				<li class="active"><a href="skills.html">Skills</a></li>
+				<li class="active"><a href="awards.html">Awards</a></li>
+				<li class="active"><a href="cv_joshua_brown.pdf">CV</a></li>
+				<li class="active"><a href="contact.html">Contact</a></li>
+
+			  </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+
+        </div>
+        <!-- /.container -->
+    </nav>
+	
+	<!-- Section: intro -->
+    <section id="intro" class="intro">
+		<div class="intro-content">
+			<div class="container">
+				
+				<div class="row">
+						<div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
+							<div style="padding-left:10px;padding-right:10px">
+							<h1>Real-Time 2D to 3D Video Conversion on an FPGA</h1>
+							</div>
+
+							<div class="container">
+				
+				<div class="row">
+					<div class="col-sm-6 col-md-6 col-lg-6">
+					<div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
+						<h4 style="margin-bottom:10px">Technologies used:</h4>
+						<ul>
+						<li>Field Programmable Gate Arrays</li>
+						<li>Catapult-C HDL</li>
+						<li>Quartus Schematic Capture</li>
+						<li>Low-level Optimisation</li>
+						<li>Image Processing</li>
+						</ul>
+					</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-6">
+						<div class="wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.1s">
+						<h4 style="margin-bottom: 10px">Skills demonstrated:</h4>
+						<ul>
+						<li>Digital System Design</li>
+						<li>Discrete Mathematics</li>
+						</ul>
+					    
+						</div>
+						
+					</div>					
+				</div>		
+			</div>
+
+
+
+
+							<div style="background-color:lightgrey;padding:20px">
+								<h2>Concept</h2>
+								<p>With the prevailing trend to integrate electronics and computation into every conceivable product, I designed and built an electronic dart board that would automatically detect where the player had hit, keep track of scores and declare a winner. The prototype had 31 scoring sections, an OLED display, two large score readouts and very loud siren. Misses could be reported by way of a radio controller and the score of each dart was reported by an array of LEDs around the board.</p>
+							</div>
+
+							<div class="para_dart_1"></div>
+
+							<div style="background-color:lightgrey;padding:20px">
+								<h2>Design</h2>
+								<p>The key challenge in this project was designing a robust system for detecting hits. Several options were conveived of and considered, including pressure sensitive QTC, conductive foams and fabrics forming a switch with the dart tip and impact sensing microswitches. After some testing, it was determined that the microswitch option was likely to prove most durable over repeated use.
+								<br><br>
+								Once finalised, the design was drawn on Solidworks to produce models that coule be used for laser cutting and 3D printing. This model was also used to guide the complex task of assembling the finished product. The electronic system was prototyped on a breadboard, with a small number of inputs and outputs that could be easily scaled up.</p>
+							</div>
+
+							<div class="para_dart_2"></div>
+
+							<div style="background-color:lightgrey;padding:20px">
+								<div class="row">
+									<div class="col-sm-6 col-md-6 col-lg-6">
+										<h2>Manufacture</h2>
+										<p>Much of this project was manufactured from laser cut acrylic. The switches were mounted to a plastic plate, with polystyrene backed foam to catch the darts and transfer force to the switches. The prototype circuit was transferred to a computer and the number of switches and LEDs was scaled up. I then designed a PCB for the main logic circuit, with two more for the display systems that would go in different modules. This was all assembled by hand over the course of about a week and a half. The program from the electronic prototype was modified to use the additional input and copied to the microcontroller. I also wrote several alternative game modes.</p>
+									</div>
+									<div class="col-sm-6 col-md-6 col-lg-6" style="align-content: center">
+										<img src="img/projects/dart/scores.jpg" width="450px" height="auto">
+									</div>					
+								</div>
+							</div>
+
+							<div class="para_dart_3"></div>
+
+							<div style="background-color:lightgrey;padding:20px">
+								<h2>The Result</h2>
+								<p>The resulting project produced a strong 3D effect, especially in scenes containing objects of contrasting colours. The resulting video was also produced in real time, with no delay between capturing and displaying each frame.</p>
+							</div>
+
+							<div class="para_dart_4"></div>
+
+							<div style="background-color:lightgrey;padding:20px">
+								<h2>The Result</h2>
+								<p>The resulting project produced a strong 3D effect, especially in scenes containing objects of contrasting colours. The resulting video was also produced in real time, with no delay between capturing and displaying each frame.</p>
+							</div>
+
+							<div class="para_dart_5"></div>
+
+							<div style="background-color:lightgrey;padding:20px">
+								<h2>The Result</h2>
+								<p>The resulting project produced a strong 3D effect, especially in scenes containing objects of contrasting colours. The resulting video was also produced in real time, with no delay between capturing and displaying each frame.</p>
+							</div>
+
+						<div class="para"></div>
+					</div>					
+				</div>		
+			</div>
+		</div>		
+    </section>
+
+	<footer>
+	
+
+		<div class="sub-footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6 col-md-6 col-lg-6">
+					<ul class="social">
+						
+						<li><a href="https://twitter.com/JPB515"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="https://www.linkedin.com/in/joshua-brown-7368b5122/"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="https://github.com/JB515"><i class="fa fa-github"></i></a></li>
+						
+					</ul>
+				</div>
+				<div class="col-sm-6 col-md-6 col-lg-6">
+					<div class="wow fadeInRight" data-wow-delay="0.1s">
+					<div class="text-right margintop-30">
+					</div>
+					</div>
+				</div>
+			</div>	
+		</div>
+		</div>
+	</footer>
+
+</div>
+
+
+</body>
+
+</html>
