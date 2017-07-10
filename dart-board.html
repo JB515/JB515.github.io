@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>3D Video Conversion - Joshua Brown</title>
+    <title>Electronic Dart Board - Joshua Brown</title>
 	
     <!-- css -->
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -75,7 +75,7 @@
 				<div class="row">
 						<div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
 							<div style="padding-left:10px;padding-right:10px">
-							<h1>Real-Time 2D to 3D Video Conversion on an FPGA</h1>
+							<h1>Microprocessor Controlled Dart Board with Automated Scoring and Hit Recognition</h1>
 							</div>
 
 							<div class="container">
@@ -85,11 +85,9 @@
 					<div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
 						<h4 style="margin-bottom:10px">Technologies used:</h4>
 						<ul>
-						<li>Field Programmable Gate Arrays</li>
-						<li>Catapult-C HDL</li>
-						<li>Quartus Schematic Capture</li>
-						<li>Low-level Optimisation</li>
-						<li>Image Processing</li>
+						<li>PIC Microcontrollers</li>
+						<li>Laser Cutting</li>
+						<li>3D Printing</li>
 						</ul>
 					</div>
 					</div>
@@ -97,8 +95,11 @@
 						<div class="wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.1s">
 						<h4 style="margin-bottom: 10px">Skills demonstrated:</h4>
 						<ul>
-						<li>Digital System Design</li>
-						<li>Discrete Mathematics</li>
+						<li>Programming</li>
+						<li>Product Design</li>
+						<li>Circuit Design</li>
+						<li>Computer Aided Design and Manufacture</li>
+						<li>Project Management</li>
 						</ul>
 					    
 						</div>
@@ -115,25 +116,18 @@
 								<p>With the prevailing trend to integrate electronics and computation into every conceivable product, I designed and built an electronic dart board that would automatically detect where the player had hit, keep track of scores and declare a winner. The prototype had 31 scoring sections, an OLED display, two large score readouts and very loud siren. Misses could be reported by way of a radio controller and the score of each dart was reported by an array of LEDs around the board.</p>
 							</div>
 
-							<div class="para_dart_1"></div>
-
-							<div style="background-color:lightgrey;padding:20px">
-								<h2>Design</h2>
-								<p>The key challenge in this project was designing a robust system for detecting hits. Several options were conveived of and considered, including pressure sensitive QTC, conductive foams and fabrics forming a switch with the dart tip and impact sensing microswitches. After some testing, it was determined that the microswitch option was likely to prove most durable over repeated use.
-								<br><br>
-								Once finalised, the design was drawn on Solidworks to produce models that coule be used for laser cutting and 3D printing. This model was also used to guide the complex task of assembling the finished product. The electronic system was prototyped on a breadboard, with a small number of inputs and outputs that could be easily scaled up.</p>
-							</div>
-
 							<div class="para_dart_2"></div>
 
 							<div style="background-color:lightgrey;padding:20px">
 								<div class="row">
 									<div class="col-sm-6 col-md-6 col-lg-6">
-										<h2>Manufacture</h2>
-										<p>Much of this project was manufactured from laser cut acrylic. The switches were mounted to a plastic plate, with polystyrene backed foam to catch the darts and transfer force to the switches. The prototype circuit was transferred to a computer and the number of switches and LEDs was scaled up. I then designed a PCB for the main logic circuit, with two more for the display systems that would go in different modules. This was all assembled by hand over the course of about a week and a half. The program from the electronic prototype was modified to use the additional input and copied to the microcontroller. I also wrote several alternative game modes.</p>
+										<h2>Design</h2>
+										<p>The key challenge in this project was designing a robust system for detecting hits. Several options were conveived of and considered, including pressure sensitive QTC, conductive foams and fabrics forming a switch with the dart tip and impact sensing microswitches. After some testing, it was determined that the microswitch option was likely to prove most durable over repeated use.
+										<br><br>
+										Once finalised, the design was drawn on Solidworks to produce models that coule be used for laser cutting and 3D printing. This model was also used to guide the complex task of assembling the finished product. The electronic system was prototyped on a breadboard, with a small number of inputs and outputs that could be easily scaled up.</p>
 									</div>
-									<div class="col-sm-6 col-md-6 col-lg-6" style="align-content: center">
-										<img src="img/projects/dart/scores.jpg" width="450px" height="auto">
+									<div class="col-sm-6 col-md-6 col-lg-6" style="vertical-align:middle">
+										<img src="img/projects/dart/switch.jpg" width="450px" height="auto" style="margin:0px auto;display:block">
 									</div>					
 								</div>
 							</div>
@@ -141,22 +135,29 @@
 							<div class="para_dart_3"></div>
 
 							<div style="background-color:lightgrey;padding:20px">
-								<h2>The Result</h2>
-								<p>The resulting project produced a strong 3D effect, especially in scenes containing objects of contrasting colours. The resulting video was also produced in real time, with no delay between capturing and displaying each frame.</p>
-							</div>
-
-							<div class="para_dart_4"></div>
-
-							<div style="background-color:lightgrey;padding:20px">
-								<h2>The Result</h2>
-								<p>The resulting project produced a strong 3D effect, especially in scenes containing objects of contrasting colours. The resulting video was also produced in real time, with no delay between capturing and displaying each frame.</p>
+								<div class="row">
+									<div class="col-sm-6 col-md-6 col-lg-6">
+										<h2>Manufacture</h2>
+										<p>Much of this project was manufactured from laser cut acrylic. The switches were mounted to a plastic plate, with polystyrene backed foam to catch the darts and transfer force to the switches. The prototype circuit was transferred to a computer and the number of switches and LEDs was scaled up. I then designed a PCB for the main logic circuit, with two more for the display systems that would go in different modules. This was all assembled by hand over the course of about a week and a half. The program from the electronic prototype was modified to use the additional input and copied to the microcontroller. I also wrote several alternative game modes.</p>
+									</div>
+									<div class="col-sm-6 col-md-6 col-lg-6" style="vertical-align:middle">
+										<img src="img/projects/dart/oled.jpg" width="450px" height="auto" style="margin:0px auto;display:block;vertical-align:middle">
+									</div>					
+								</div>
 							</div>
 
 							<div class="para_dart_5"></div>
 
 							<div style="background-color:lightgrey;padding:20px">
-								<h2>The Result</h2>
-								<p>The resulting project produced a strong 3D effect, especially in scenes containing objects of contrasting colours. The resulting video was also produced in real time, with no delay between capturing and displaying each frame.</p>
+								<div class="row">
+									<div class="col-sm-6 col-md-6 col-lg-6">
+										<h2>Features</h2>
+										<p>When finished, the dart board offered 3 game modes - 501 where players counted down from a score of 501 to 0, finishing on a double, first to 1000 where players have to get the hughest score possible and top dart, where players each throw one dart and the highest score wins. The scores are shown on two seven segment displays and the game is controlled via an OLED screen and 3 multi-function buttons. A loud siren sounds when one player can be declared as the winner.</p>
+									</div>
+									<div class="col-sm-6 col-md-6 col-lg-6" style="vertical-align:middle">
+										<img src="img/projects/dart/scores.jpg" width="450px" height="auto" style="margin:0px auto;display:block;vertical-align:middle">
+									</div>					
+								</div>
 							</div>
 
 						<div class="para"></div>

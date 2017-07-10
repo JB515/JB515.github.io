@@ -122,19 +122,11 @@
 						<div style="background-color:lightgrey;padding:20px">
 							<div class="row">
 								<div class="col-sm-6 col-md-6 col-lg-6">
-								<div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
 									<h2>Servoing and Sensing</h2>
 									<p>One of the key requirements of a mobile robot is the ability to combine smooth motion with the available data from outward looking sensors. Using an unltrasound sensor facing either forward or to the side, GEOFF was able to use the difference in speeds between the left and right wheels to smoothly maintain a set distance from a wall. By employing a PID controller, GEOFF could also maintain it's distance to a moving object approaching or retreating.</p>
 								</div>
-								</div>
 								<div class="col-sm-6 col-md-6 col-lg-6 slogan" align="center" style="position:relative;top:50%">
-									<div class="wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.1s">
-										<video width="270" height="270" controls>
-	  										<source src="movie.ogg" type="video/ogg">
-									        <source src="vid/co333/wall_following.mp4" type="video/mp4">
-									    </video>
-									</div>
-									
+									<iframe width="450" height="253" src="https://www.youtube.com/embed/RiUTmZ4C6h4" frameborder="0" allowfullscreen></iframe>
 								</div>					
 							</div>
 						</div>
@@ -144,19 +136,11 @@
 						<div style="background-color:lightgrey;padding:20px">
 							<div class="row">
 								<div class="col-sm-6 col-md-6 col-lg-6">
-								<div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
 									<h2>Waypoint Navigation</h2>
 									<p>Using some basic trigonometry, GEOFF was programmed to move between waypoints given in cm from a pre determined origin. Initially, localisation was assumed to be 0,0,0 at startup and data from the wheels was used to determine good estimates for distances travelled and turned. As a proof of the path finding algorithm used, this worked quite well.</p>
 								</div>
-								</div>
 								<div class="col-sm-6 col-md-6 col-lg-6 slogan" align="center" style="position:relative;top:50%">
-									<div class="wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.1s">
-										<video width="480" height="270" controls>
-	  										<source src="movie.ogg" type="video/ogg">
-									        <source src="vid/co333/waypoints.mp4" type="video/mp4">
-									    </video>
-									</div>
-									
+									<iframe width="450" height="253" src="https://www.youtube.com/embed/t2NVJh8SdW8" frameborder="0" allowfullscreen></iframe>
 								</div>					
 							</div>
 						</div>
@@ -166,19 +150,11 @@
 						<div style="background-color:lightgrey;padding:20px">
 							<div class="row">
 								<div class="col-sm-6 col-md-6 col-lg-6">
-								<div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
 									<h2>Probabalistic Localisation</h2>
 									<p>The inaccuracies observed in odometry based localisation were caused by GEOFF's model of his own motion not considering all possible variables. Factors like friction, power supply drain and even the give in the carpet could lead to errors in position. The solution was to use data from the ultrasound sensor to determine where GEOFF was on a known map. To do this, GEOFF was programmed with a system of particles that represented many possible positions it could be in. Sensor data and a Monte Carlo Particle filter were then used to select the position that was most likely to be accurate and GEOFF operates under the assumption that this is correct. The potential for errors in the sensor give rise to a small area of particles after each movement, but the effect is that GEOFF's accuracy is much improved.</p>
 								</div>
-								</div>
 								<div class="col-sm-6 col-md-6 col-lg-6 slogan" align="center">
-									<div class="wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.1s">
-										<video width="480" height="270" controls>
-	  										<source src="movie.ogg" type="video/ogg">
-									        <source src="vid/co333/localisation.mp4" type="video/mp4">
-									    </video>
-									</div>
-									
+									<iframe width="450" height="253" src="https://www.youtube.com/embed/NcHWHP82B0c" frameborder="0" allowfullscreen></iframe>
 								</div>					
 							</div>
 						</div>
@@ -188,18 +164,11 @@
 						<div style="background-color:lightgrey;padding:20px">
 							<div class="row">
 								<div class="col-sm-6 col-md-6 col-lg-6">
-								<div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
 									<h2>SLAM</h2>
 									<p>GEOFF's final challenge was to use occupancy mapping to scan a pre-mapped area and identify unexpeccted objects. This was done by scanning large regions and comparing the scanned maps with the stored maps. GEOFF was programmed to confirm identification of an unknown object by driving at it.</p>
 								</div>
-								</div>
 								<div class="col-sm-6 col-md-6 col-lg-6 slogan" align="center" style="position:relative;top:50%">
-									<div class="wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.1s">
-										<video width="480" height="270" controls>
-	  										<source src="movie.ogg" type="video/ogg">
-									        <source src="vid/co333/slam.mp4" type="video/mp4">
-									    </video>
-									</div>
+									<iframe width="450" height="253" src="https://www.youtube.com/embed/3KFvgbMTQ1s" frameborder="0" allowfullscreen></iframe>
 								</div>					
 							</div>
 						</div>
