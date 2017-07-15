@@ -278,3 +278,44 @@
     background-size: contain;
 }
 
+.para_rsvp_1 {
+    /* The image used */
+    background-image: url("../img/projects/rsvp/design1.png");
+
+    /* Set a specific height */
+    min-height: 400px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.para_rsvp_2 {
+    /* The image used */
+    background-image: url("../img/projects/rsvp/design2.png");
+
+    /* Set a specific height */
+    min-height: 400px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.para_rsvp_3 {
+    /* The image used */
+    background-image: url("../img/projects/rsvp/design3.png");
+
+    /* Set a specific height */
+    min-height: 400px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
