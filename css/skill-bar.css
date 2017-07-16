@@ -1,0 +1,44 @@
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.skill-container {
+    width: 100%; /* Full width */
+    background-color: #ddd; /* Grey background */
+    padding:20px;
+}
+
+.skills {
+    text-align: right; /* Right-align text */
+    padding-right: 20px; /* Add some right padding */
+    line-height: 30px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
+    color: white; /* White text color */
+}
+
+.cad    	{width: 70%; background-color: #4CAF50;} /* Green */
+.mech   	{width: 70%; background-color: #4CAF50;} /* Green */
+.elec   	{width: 50%; background-color: #4CAF50;} /* Green */
+.print  	{width: 50%; background-color: #4CAF50;} /* Green */
+.laser  	{width: 60%; background-color: #4CAF50;} /* Green */
+.cnc    	{width: 50%; background-color: #4CAF50;} /* Green */
+.manual 	{width: 80%; background-color: #4CAF50;} /* Green */
+
+.c 			{width: 90%; background-color: #2196F3;} /* Blue */
+.python 	{width: 60%; background-color: #2196F3;} /* Blue */
+.sql 		{width: 60%; background-color: #2196F3;} /* Blue */
+.fs 		{width: 30%; background-color: #2196F3;} /* Blue */
+.gl 		{width: 30%; background-color: #2196F3;} /* Blue */
+.html 		{width: 90%; background-color: #2196F3;} /* Blue */
+.assem 		{width: 90%; background-color: #2196F3;} /* Blue */
+.ui 		{width: 90%; background-color: #2196F3;} /* Blue */
+
+.grants 	{width: 20%; background-color: #f44336;} /* Red */
+.experimentd {width: 100%; background-color: #f44336;} /* Red */
+.experimente {width: 100%; background-color: #f44336;} /* Red */
+.writing 	{width: 20%; background-color: #f44336;} /* Red */
+.pres 		{width: 20%; background-color: #f44336;} /* Red */
+
+.wood 		{width: 100%; background-color: #808080;} /* Dark Grey */
+.adobe 		{width: 70%; background-color: #808080;} /* Dark Grey */
+.teaching 	{width: 80%; background-color: #808080;} /* Dark Grey */
+.outreach 	{width: 80%; background-color: #808080;} /* Dark Grey */
