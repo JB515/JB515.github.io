@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: Joshua recieves an Honorable Mention for the Best Paper Award at the IEEE Haptics Symposium in Long Beach, California
 date: 2024-04-10 16:11:00-0400
 inline: false
 related_posts: false
