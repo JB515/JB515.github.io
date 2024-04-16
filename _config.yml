@@ -76,7 +76,7 @@ facebook_id: # your facebook id
 flickr_id: # your flickr id
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
-ieee_id: # your ieeexplore.ieee.org/author/id
+ieee_id: 37088395193 # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
@@ -102,9 +102,9 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: # work page URL
-x_username: # your X handle
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+work_url: https://www.imperial.ac.uk/people/joshua.brown # work page URL
+x_username: JPB515 # your X handle
+youtube_id: jb_robotics # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
@@ -136,7 +136,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -291,10 +291,10 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Brown]
+  first_name: [Joshua, J.]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
