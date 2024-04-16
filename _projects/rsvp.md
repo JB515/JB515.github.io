@@ -2,7 +2,7 @@
 layout: page
 title: 3D RSVP
 description: a project with no image
-img:
+img: assets/img/project/rsvp/design1.png
 importance: 4
 category: Previous
 related_publications: true

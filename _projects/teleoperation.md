@@ -2,7 +2,7 @@
 layout: page
 title: Underwater Robot Teleoperation
 description: a project with no image
-img:
+img: /assets/img/projects/teleoperation/titleimg.png
 importance: 4
 category: Previous
 ---

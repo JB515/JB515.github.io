@@ -80,7 +80,6 @@
     - year: 2019
       items:
         - Best poster, Materials Research Institute Christmas Symposium
-        - 
     - year: 2018
       items:
         - Eric Laithwaite Prize
@@ -94,6 +93,25 @@
     - year: 2012
       items:
         - Rolls-Royce Arkwright Engineering Scholarship
+
+- title: Teaching
+  type: nested_list
+  contents:
+    title: Lecturing
+    items:
+      - Guest lecturer, Design and Control of Medical Robots, Seoul National University
+    title: Laboratory teaching
+    items:
+      - Roboics Design and Build Project, Queen Mary Unviersity of London
+      - Skills for Robotics Engineering, Queen Mary Unviersity of London
+      - Skills for Electronic Engineering, Queen Mary Unviersity of London
+      - Interaction Design, Queen Mary Unviersity of London
+      - Software Engineering group project, Queen Mary Unviersity of London
+    title: Supervision
+    items:
+      - I have supervised or co-supervised 15 research project students on MEng, MSc, MRes, BSc and iBSc programmes
+      - 4 of my past students recieved awards for their projects
+      - 1 of my past students has gone on to undertake a PhD relevant to their project
 
 - title: Academic Interests
   type: nested_list

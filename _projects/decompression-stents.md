@@ -2,7 +2,7 @@
 layout: page
 title: Decompression Stents
 description: Creating clinical impact through design and manufacturing engineering
-img:
+img: assets/img/project/stents/20210423_165936_edited.jpg
 importance: 2
 category: Previous
 ---

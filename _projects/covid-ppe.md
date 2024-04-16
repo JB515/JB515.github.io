@@ -2,7 +2,7 @@
 layout: page
 title: COVID-PPE
 description: Community engagement and impact
-img:
+img: assets/img/project/visors/20200426_170028.jpg
 importance: 1
 category: Previous
 related_publications: true

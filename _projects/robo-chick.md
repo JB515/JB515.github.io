@@ -2,7 +2,7 @@
 layout: page
 title: Robo-Chick
 description: Investigating haptics in Animal-Robot Interaction
-img:
+img: assets/img/publication_preview/ICDL2021img.jpg
 importance: 4
 category: Previous
 related_publications: true
