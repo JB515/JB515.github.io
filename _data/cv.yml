@@ -70,34 +70,50 @@
   contents:
     - year: 2024
       items:
-        - Honorable Mention for Best Paper, IEEE Haptics Symposium 2024
+        - Honorable Mention for Best Paper, IEEE Haptics Symposium
     - year: 2021
       items:
         - Engagement and Impact - Local Champion Award
     - year: 2020
       items:
-        - Max Planck Medal
+        - Best paper nominee, IEEE Haptics Symposium
     - year: 2019
       items:
-        - Max Planck Medal
+        - Best poster, Materials Research Institute Christmas Symposium
+        - 
     - year: 2018
       items:
         - Eric Laithwaite Prize
     - year: 2014
       items:
-        - Max Planck Medal
+        - Imperial College President’s Scholarship
+    - year: 2013
+      items:
+        - Bloodhound SSC Award for Excellence in Engineering 
+        - Advanced STEM Leaders Award
+    - year: 2012
+      items:
+        - Rolls-Royce Arkwright Engineering Scholarship
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Haptics
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Soft haptic devices
+        - Multimodal haptic interactions
+        - Medical simulation using haptics
+        - Telerobotics
+        - Haptic information representation
+    - title: Soft Robotics
       items:
-        - Description 1.
-        - Description 2.
+        - Soft actuator design
+        - Soft sensor design
+    - title: Medical Robotics
+      items:
+        - Prosthetics
+        - Personalised medical devices
+        - Rehabilitation robotics
 
 - title: Other Interests
   type: list
