@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: CASE
+description: AI Coffee Machine
 img:
 importance: 4
-category: fun
+category: Previous
 ---
 
 Every project has a beautiful feature showcase page.

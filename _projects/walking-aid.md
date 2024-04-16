@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: WA-LLE
+description: Walking Aid - Limitless Living for the Elderly
 img:
-importance: 4
-category: fun
+importance: 5
+category: Previous
 ---
 
 Every project has a beautiful feature showcase page.

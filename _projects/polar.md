@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: POLAR
+description: Prosthetics and Orthoses for Limited Access Regions
 img: assets/img/3.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: Current
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

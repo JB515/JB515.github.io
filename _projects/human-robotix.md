@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Human Robotix
+description: Startup Company
 img:
 importance: 3
-category: fun
+category: Current
 ---
 
 Every project has a beautiful feature showcase page.

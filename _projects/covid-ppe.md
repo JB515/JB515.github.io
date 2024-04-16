@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: COVID-PPE
+description: Community engagement and impact
 img:
-importance: 4
-category: fun
+importance: 1
+category: Previous
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
