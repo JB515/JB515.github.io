@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joshua gives a guest lecture about Haptics in Medicine on the Design and Control of Medical Robots course at Seoul National University.
+I was delighted to give a guest lecture about Haptics in Medicine on the Design and Control of Medical Robots course at Seoul National University. Many thanks to Prof Amy Han for the invitation and the students for such engaging and insightful questions!

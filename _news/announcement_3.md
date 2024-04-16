@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joshua presents an invited poster at the IEEE Haptics Symposium Cross-Cutting Challenges session on Softness in Science and Engineering
+I presented a poster at the IEEE Haptics Symposium Cross-Cutting Challenges session on Frontiers of Softness in Science and Engineering. Many thanks to Prof Shogo Okamoto for the invitation!

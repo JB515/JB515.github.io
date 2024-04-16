@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joshua presents his recent and ongoing research at the Korea-UK workshop on Haptics and Medical Robotics
+I was thrilled to be able to present some of my recent and ongoing research at the Korea-UK workshop on Haptics and Medical Robotics

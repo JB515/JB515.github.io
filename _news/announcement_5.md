@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joshua presents a selection of recent research projects to members of the Healthcare Robotics (HeRo) Lab at Seoul National University in South Korea
+I enjoyed presenting a selection of recent research projects to members of the Healthcare Robotics (HeRo) Lab at Seoul National University in South Korea
