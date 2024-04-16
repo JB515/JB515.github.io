@@ -2,7 +2,7 @@
 layout: page
 title: POLAR
 description: Prosthetics and Orthoses for Limited Access Regions
-img: assets/img/project/polar/rendersocket.png
+img: assets/img/projects/polar/rendersocket.png
 importance: 2
 category: Current
 related_publications: true

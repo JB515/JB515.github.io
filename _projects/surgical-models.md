@@ -2,7 +2,7 @@
 layout: page
 title: 3D Printed Surgical Models
 description: a project with a background image
-img: assets/img/project/3d-simulators/20230814_143959.jpg
+img: assets/img/projects/3d-simulators/20230814_143959.jpg
 importance: 3
 category: Current
 ---

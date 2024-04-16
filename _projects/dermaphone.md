@@ -2,7 +2,7 @@
 layout: page
 title: Dermaphone
 description: A multi-sensory dermatology teaching resource
-img: assets/img/project/dermaphone/aa.png
+img: assets/img/projects/dermaphone/aa.png
 importance: 3
 category: Future
 ---

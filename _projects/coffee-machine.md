@@ -2,7 +2,7 @@
 layout: page
 title: CASE
 description: AI Coffee Machine
-img: assets/img/project/coffee-machine/File_000.jpeg
+img: assets/img/projects/coffee-machine/File_000.jpeg
 importance: 4
 category: Previous
 ---

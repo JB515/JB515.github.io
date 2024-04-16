@@ -2,7 +2,7 @@
 layout: page
 title: The Tactile Mouse
 description: a project with no image
-img: /assets/img/projects/tactile-mouse/three-blind-mice.jpg
+img: /assets/img/projects/tactile-mouse/three-blind-mice.jpeg
 importance: 4
 category: Previous
 related_publications: true

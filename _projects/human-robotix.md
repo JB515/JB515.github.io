@@ -2,7 +2,7 @@
 layout: page
 title: Human Robotix
 description: Startup Company
-img: assets/img/project/hrx/robot21.png
+img: assets/img/projects/hrx/robot21.png
 importance: 3
 category: Current
 ---

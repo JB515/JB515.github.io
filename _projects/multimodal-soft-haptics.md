@@ -2,7 +2,7 @@
 layout: page
 title: Multimodal Soft Haptics
 description: a project with a background image
-img: assets/img/project/soft-haptics/titleimage.jpg
+img: assets/img/projects/soft-haptics/titleimage.jpg
 importance: 1
 category: Current
 related_publications: true
