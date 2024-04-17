@@ -1,19 +1,31 @@
 "farkhatdinov":
   - firstname: ["Ildar", "I."]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+    url: https://hair-robotics.qmul.ac.uk
 
 "bello":
   - firstname: ["Fernando", "F."]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+    url: https://www.imperial.ac.uk/people/f.bello
 
 "althoefer":
   - firstname: ["Kaspar", "K."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+    url: https://www.sems.qmul.ac.uk/staff/k.althoefer
 
 "spence":
-  - firstname: ["Robert", "Bob", "R."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+  - firstname: ["Robert", "Bob", "R.", "B."]
+    url: https://www.imperial.ac.uk/people/r.spence
 
 "witkowski":
   - firstname: ["Mark", "Christopher", "M.", "C. M.", "C. Mark"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+    url: http://www.ee.ic.ac.uk/mark/
+
+"jenkin":
+  - firstname: ["Michael", "M.", "Michael R.", "M. R."]
+    url: https://lassonde.yorku.ca/users/jenkin
+
+"clark":
+- firstname: ["Angus", "Angus B.", "A.", "A. B."]
+url: https://www.angus-clark.co.uk
+
+"han":
+- firstname: ["Amy", "A.", "A. K.", "Kyungwon", "Amy Kyungwon", "Amy K.", "A. K. W."]
+url: https://www.hero.snu.ac.kr/people/amyhan
