@@ -1,10 +1,10 @@
 ---
 layout: page
-title: CASE
-description: AI Coffee Machine
-img: assets/img/projects/coffee-machine/File_000.jpeg
-importance: 4
-category: Previous
+title: Haptics in Medical Training
+description: Haptics and XR for Medical Education
+img: assets/img/projects/xr-ed/neuro-merge.png
+importance: 1
+category: Current
 ---
 
 Every project has a beautiful feature showcase page.
