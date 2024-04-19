@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Human Robotix
+title: Wrist manipulation robot
 description: Startup Company
 img: assets/img/projects/hrx/robot21.png
 importance: 3
