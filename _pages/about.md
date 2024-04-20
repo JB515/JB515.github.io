@@ -18,4 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a Research Associate (postdoc) at Imperial College London where I am based in the Simulation and Modelling in Medicine and Surgery (SiMMS) group. I am also a co-founder and lead engineer at Human Robotix Ltd. My main research interest is the design of multimodal haptic inferfaces for simulation and physical information presentation. I also work extensively in 3D printing/digital manufacturing and other areas of mechatronics.
+I'm a Research Associate (postdoc) at Imperial College London where I work at the intersection of robotics, human-computer interaction and surgery. I am based in the Simulation and Modelling in Medicine and Surgery (SiMMS) group in the Department of Surgery and Cancer. My primary research interest is in haptics though his past research has covered topics including digital manufacturing, personalised medical devices, robotics for muscular rehabilitation and information visualisation. I am currently working on haptic simulations of physical medical examinations which will be deployed to support Imperial's MBBS in Medicine curriculum.
+
+I first joined Imperial as an undergraduate student in the Department of Electrical and Electronic Engineering in 2014, before returning as a researcher in Bioengineering in 2020. I am currently with the Department of Surgery and Cancer as part of the Centre for Engagement and Simulation Science and SiMMS research group. I completed my PhD in Haptics at Queen Mary University of London and have been a visiting researcher at York University, Canada and Seoul National University, Korea. I am also a co-founder of Human Robotix Ltd.
+

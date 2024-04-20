@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Decompression Stents
+title: Surgical Stents
 description: Creating clinical impact through design and manufacturing engineering
 img: assets/img/projects/stents/20210423_165936_edited.jpg
 importance: 2
