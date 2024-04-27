@@ -6,7 +6,7 @@ img: assets/img/projects/soft-haptics/titleimage.jpg
 importance: 2
 category: Current
 related_publications: true
-collabarators: "Professor Amy Kyungwon Han, Seoul National University", "Dr Lynette Jones, Massachusetts Institute of Technology", "Dr Ildar Farkhatdinov, University of London"
+collabarators: ["Professor Amy Kyungwon Han, Seoul National University", "Dr Lynette Jones, Massachusetts Institute of Technology", "Dr Ildar Farkhatdinov, University of London"]
 ---
 
 Every project has a beautiful feature showcase page.
