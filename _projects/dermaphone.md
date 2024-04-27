@@ -5,6 +5,7 @@ description: A multi-sensory dermatology teaching resource
 img: assets/img/projects/dermaphone/aa.png
 importance: 3
 category: Future
+collabarators: ["Dr Haya Alani, Imperial College London", "Aleera Ewan, Imperial College London"]
 ---
 
 Every project has a beautiful feature showcase page.

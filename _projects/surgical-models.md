@@ -5,6 +5,7 @@ description: a project with a background image
 img: assets/img/projects/3d-simulators/20230814_143959.jpg
 importance: 3
 category: Current
+collabarators: ["Mr Maxim Horwitz, Chelsea and Westminster Hospital", "Dr Sofia Chacon, Chelsea and Westminster Hospital", "Dr Reza Haghighi Osgouei, Imperial College London", "Dr Orene Greer, Imperial College London"]
 ---
 
 Every project has a beautiful feature showcase page.

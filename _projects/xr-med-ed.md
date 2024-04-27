@@ -5,6 +5,7 @@ description: Haptics and XR for Medical Education
 img: assets/img/projects/xr-ed/neuro-merge.png
 importance: 1
 category: Current
+collabarators: ["Professor Fernando Bello, Imperial College London", "Dr Lynette Jones, Massachusetts Institute of Technology", "Professor Amy Kyungwon Han, Seoul National University"]
 ---
 
 Every project has a beautiful feature showcase page.

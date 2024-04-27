@@ -6,6 +6,7 @@ img: assets/img/projects/visors/20200426_170028.jpg
 importance: 1
 category: Previous
 related_publications: true
+collabarators: ["Professor Shakeel Shahdad, Royal London Hospital", "Dr Ahmed Din, Royal London Hospital", "Dr Sarah Waia, Royal London Hospital", "Hristina Cvetanovska, Royal London Hospital", "Professor Kaspar Althoefer, Queen Mary University of London", "Dr Ildar Farkhatdinov, University of London", "Dr Bukeikhan Omarali, Queen Mary University of London"]
 ---
 
 Every project has a beautiful feature showcase page.

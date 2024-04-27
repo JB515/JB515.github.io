@@ -6,6 +6,7 @@ img: assets/img/projects/rsvp/design1.png
 importance: 4
 category: Previous
 related_publications: true
+collabarators: ["Emeritus Professor Bob Spence, Imperial College London", "Dr Mark Witkowski, Imperial College London", "Dr James Mardell, Imperial College London"]
 ---
 
 Every project has a beautiful feature showcase page.

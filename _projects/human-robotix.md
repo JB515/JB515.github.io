@@ -5,6 +5,7 @@ description: Startup Company
 img: assets/img/projects/hrx/robot21.png
 importance: 3
 category: Current
+collabarators: ["Professor Etienne Burdet, Imperial College London", "Professor Aaron Yurkewich, Ontario Technical University", "Dr Ildar Farkhatdinov, University of London"]
 ---
 
 Every project has a beautiful feature showcase page.

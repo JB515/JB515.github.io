@@ -6,6 +6,7 @@ img: assets/img/publication_preview/ICDL2021img.jpg
 importance: 4
 category: Previous
 related_publications: true
+collabarators: ["Dr Elisabetta Versace, Queen Mary University of London", "Dr Lorenzo Jamone, Queen Mary University of London", "Dr Shuge Wang, Queen Mary University of London"]
 ---
 
 Every project has a beautiful feature showcase page.

@@ -6,6 +6,7 @@ img: assets/img/projects/polar/rendersocket.png
 importance: 2
 category: Future
 related_publications: true
+collabarators: ["Dr Angus B. Clark, Imperial College London", "Dr Buki Omarali, Imperial College London"]
 ---
 
 Every project has a beautiful feature showcase page.

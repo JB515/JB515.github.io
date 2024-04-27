@@ -5,6 +5,7 @@ description: a project with no image
 img: /assets/img/projects/teleoperation/titleimg.png
 importance: 4
 category: Previous
+collabarators: ["Professor Michael Jenkin, York University"]
 ---
 
 Every project has a beautiful feature showcase page.

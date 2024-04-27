@@ -5,6 +5,7 @@ description: Creating clinical impact through design and manufacturing engineeri
 img: assets/img/projects/stents/20210423_165936_edited.jpg
 importance: 2
 category: Previous
+collabarators: ["Mr Leo Cheng, Royal London Hospital", "Hristina Cvetanovska, Royal London Hospital"]
 ---
 
 Every project has a beautiful feature showcase page.
