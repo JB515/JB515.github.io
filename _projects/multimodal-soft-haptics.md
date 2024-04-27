@@ -1,11 +1,12 @@
 ---
 layout: project
 title: Multimodal Soft Haptics
-description: a project with a background image
+description: Creating rich multimodal soft haptic interfaces
 img: assets/img/projects/soft-haptics/titleimage.jpg
-importance: 1
+importance: 2
 category: Current
 related_publications: true
+collabarators: "Professor Amy Kyungwon Han, Seoul National University", "Dr Lynette Jones, Massachusetts Institute of Technology", "Dr Ildar Farkhatdinov, University of London"
 ---
 
 Every project has a beautiful feature showcase page.
