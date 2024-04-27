@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: 3D Printed Surgical Models
 description: a project with a background image
 img: assets/img/projects/3d-simulators/20230814_143959.jpg

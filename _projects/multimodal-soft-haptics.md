@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Multimodal Soft Haptics
 description: a project with a background image
 img: assets/img/projects/soft-haptics/titleimage.jpg

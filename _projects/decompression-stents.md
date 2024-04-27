@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Surgical Stents
 description: Creating clinical impact through design and manufacturing engineering
 img: assets/img/projects/stents/20210423_165936_edited.jpg

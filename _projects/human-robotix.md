@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Wrist manipulation robot
 description: Startup Company
 img: assets/img/projects/hrx/robot21.png

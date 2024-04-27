@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: 3D RSVP
 description: a project with no image
 img: assets/img/projects/rsvp/design1.png

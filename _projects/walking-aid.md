@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: WA-LLE
 description: Walking Aid - Limitless Living for the Elderly
 img: /assets/img/projects/walking-aid/20191118_185511.jpg

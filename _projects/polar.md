@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: POLAR
 description: Prosthetics and Orthoses for Limited Access Regions
 img: assets/img/projects/polar/rendersocket.png

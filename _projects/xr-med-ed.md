@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Haptics in Medical Training
 description: Haptics and XR for Medical Education
 img: assets/img/projects/xr-ed/neuro-merge.png

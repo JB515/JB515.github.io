@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Underwater Robot Teleoperation
 description: a project with no image
 img: /assets/img/projects/teleoperation/titleimg.png

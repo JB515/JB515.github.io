@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Robo-Chick
 description: Investigating haptics in Animal-Robot Interaction
 img: assets/img/publication_preview/ICDL2021img.jpg

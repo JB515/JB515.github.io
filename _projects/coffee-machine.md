@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: CASE
 description: AI Coffee Machine
 img: assets/img/projects/coffee-machine/File_000.jpeg

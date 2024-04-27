@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Dermaphone
 description: A multi-sensory dermatology teaching resource
 img: assets/img/projects/dermaphone/aa.png

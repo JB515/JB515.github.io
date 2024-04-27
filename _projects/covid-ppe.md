@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: COVID-PPE
 description: Community engagement and impact
 img: assets/img/projects/visors/20200426_170028.jpg
