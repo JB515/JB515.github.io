@@ -19,7 +19,7 @@ In 2011, the Human Robotics Group at Imperial College London designed and built 
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    The HRX-1 wrist manipulation robot, and several earlier prototypes.
 </div>
 
 The result - the HRX-1 - is a fully portable reimagining of the original robot. At less than 10KG fully packaged, it can be easily transported between research labs, clinics and researchers' or patients' homes. It's 600W brushless DC motor can generate up to 4Nm of torque and the handle can measure up to 11Nm of input torque. Software is provided for control and data logging through MATLAB, which also offers integration with a variety of other devices, sensors and software packages.
@@ -34,9 +34,6 @@ The result - the HRX-1 - is a fully portable reimagining of the original robot. 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/hrx/frames-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 
 The robot is now being sold through a start-up - Human Robotix Ltd. Based out of my garage in South-East London, each robot is proudly built in Britain. The robots are already being used in universities in Europe and North America with hopefully more to come.
@@ -53,5 +50,5 @@ The robot is now being sold through a start-up - Human Robotix Ltd. Based out of
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    The robot is now being sold by a startup company, <a href="https://www.humanrobotix.co.uk/">Human Robotix</a>
 </div>
