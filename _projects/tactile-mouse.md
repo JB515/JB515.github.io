@@ -9,74 +9,57 @@ related_publications: true
 collabarators: ["Emeritus Professor Bob Spence, Imperial College London", "Dr Mark Witkowski, Imperial College London", "Dr James Mardell, Imperial College London"]
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+For my final MEng research project, which has branched into a number of further research projects that I continue to pursue, I developed a mobile, fingertip tactile display. This made advances over existing technolgies in its portability and ability to offer a more nuanced sensation than the simple raised-flat effect used in such displays up to this point. The finald device was equipped with a camera with a view to being able to scan printed text and graphics and convert them into tactile media.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+# Research Aims
+
+- To develop a novel, handheld tactile display with a better tactile resolution than existing electronic Braille displays.
+
+- To investigate the effectiveness of a fingertip tactile display for comsuming 'larger-than-fingertip' media.
+
+- To investigate tactile representations of shape and colour.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/tactile-mouse/stepper.jpg" title="The miniature stepper motor used in the Tactile Mouse" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/tactile-mouse/drive-module.jpg" title="8 stepper motors combined into a single row drive module" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/tactile-mouse/all-motors.jpg" title="64 stepper motors assembled to drive an 8x8 taxel tactile display" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images {% cite Brown2021WHCMouse %}.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+# A Novel Tactile Display
+
+In order to meet the cost, size and performance requirements of the project, it was necessary to consider mechatronic designs beyond those used in traditional tactile displays. The design selected is based on an array of miniature stepper motors of the type used to adjust the lenses in digital cameras. These are fitted with leadscrews which connect to the tactile pins via rigid mechanical linkages. The stepper motors provide good accuracy and control without a large and complex sensing system for providing feedback. They are also small enough to create a usable x-y resolution (8x8 'taxels' or tactile pixels) that can still be held in one hand. The leadscrew design has the benefit of being unidirectional, meaning that forces from the motor can extend the taxel, but forces on the taxel will not turn the motor. This means that the motors can be completely powered down when not in use, improving power efficiency.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/tactile-mouse/disassembled-labelled.jpg" title="The Tactile Mouse" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/tactile-mouse/pattern-1.jpg" title="A tactile pattern" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/tactile-mouse/pattern-2.jpg" title="The same tactile pattern, translated downward as the mouse moves" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+
+# Tactile Scanning Behaviour
+
+The combination of the bottom mounted camera and fingertip sized display presents an interesting tactile search use case for the device. This is because very few useful graphics can be fully represented on such a small display, meaning that the user will need to 'scan' their source material in order to obtain a complete view of the material. At first glance, this may appear to be a substantial deficiency in the concept, however it is important to remember that only a fingertip sized area actually recieves tactile information, and so the psychological apparatus for storing and combining these small sections of tactile stimuli is well established for most Braille readers and users of static tactile graphics.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tactile-mouse/mobo-camera.jpg" title="The custom motherboard with a camera fitted" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tactile-mouse/display.jpg" title="The tactile display module" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tactile-mouse/touchpad.jpg" title="The touch surface on the completed Tactile Mouse" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
