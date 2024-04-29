@@ -2,7 +2,7 @@
 layout: project
 title: Wrist Manipulation Robot
 description: Startup Company
-img: assets/img/projects/hrx/projects/hrx/robot21.png
+img: assets/img/projects/hrx/projects/hrx/hrx-1.png
 importance: 3
 category: Current
 collabarators: ["Professor Etienne Burdet, Imperial College London", "Professor Aaron Yurkewich, Ontario Technical University", "Dr Ildar Farkhatdinov, University of London"]
@@ -12,10 +12,10 @@ In 2011, the Human Robotics Group at Imperial College London designed and built 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/hrx-1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/hrx/hrx-1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/v1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/hrx/v1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
