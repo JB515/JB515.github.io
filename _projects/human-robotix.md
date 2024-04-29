@@ -2,7 +2,7 @@
 layout: project
 title: Wrist Manipulation Robot
 description: Startup Company
-img: assets/img/projects/hrx/projects/hrx/hrx-1.png
+img: assets/img/projects/hrx/hrx-1.png
 importance: 3
 category: Current
 collabarators: ["Professor Etienne Burdet, Imperial College London", "Professor Aaron Yurkewich, Ontario Technical University", "Dr Ildar Farkhatdinov, University of London"]
