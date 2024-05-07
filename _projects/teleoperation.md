@@ -24,6 +24,7 @@ Towards the end of my PhD, I was able to visit York University in Canada to cond
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
+
 ## Research Aims
 - To understand the usefulness of multimodal haptic feedback in interpreting the movements of a remote robot.
 
@@ -32,23 +33,19 @@ Towards the end of my PhD, I was able to visit York University in Canada to cond
 - To assess the benefit of haptic feedback in a difficult real world task.
 
 
-
 ## Particle Jamming
 
 Particle jamming refers to an active area of research in condensed matter physics. The jamming of particles in a fluid has been proposed as a physical phase transition and refers to a state where the particles that make up that fluid are packed in such a way that they are physically connected to any adjacent particles. Jammed fluids are, by definition, denser than the same material in an unjammed state, and this leads to many changes in their properties, such as increased viscosity and stiffness.
+
 
 ## Prorotype Haptic Device
 
 A prototype for a novel haptic device based on the particle jamming effect described above was completed in early 2019 (photo at the top of the page) and very kindly funded by the IEEE Technical Committee on Haptics. The initial prototype consists of a rigid case filled with small particles, covered by a silicone touch pad. This mechanical device can be connected to an electronic vacuum regulator to control the strength of the jamming effect. This device uses a simple vacuum pump to generate an area of low pressure inside the case, forcing the soft cover into the device and causing the particles to jam. An ERM type vibrating motor is loosly suspended in the fluid to provide vibrations which are then restricted by the jamming of the particles.
 
+
 ## User Studies
 
 Once the phsyical characterization of this device is completed, I plan to undertake some simple user studies to determine the psychophysical effect of using particle jamming to control the 'intensity' of the vibrations. I will then use the device, either on its own or integrated into a joystick or other computer input device, to perform a number of application based experiments such as material identification from a recorded vibrotactile texture and telerobot control in difficult environments, for example underwater in the presence of a strong cross-current.
-
-
-
-
-
 
 
 <div class="row">
