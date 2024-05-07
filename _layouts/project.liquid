@@ -22,12 +22,12 @@ layout: default
     </div>
   {% endif %}
 
-  {% if page.collabarators %}
+  {% if page.funding %}
     <h2>Funding</h2>
     <div>
       <ul>
       {% for funder in page.funding %}
-        <li>{{ collabarator }}</li>
+        <li>{{ funder }}</li>
         {% endfor %}
       </ul>
     </div>
