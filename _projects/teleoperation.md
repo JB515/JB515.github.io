@@ -14,7 +14,7 @@ Towards the end of my PhD, I was able to visit York University in Canada to cond
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <iframe width="560" src="https://www.youtube.com/embed/w6L7Tt3TXJQ?si=84AtMMp7kMtTnApE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" class="img-fluid rounded z-depth-1" allowfullscreen></iframe>
+        <iframe width="560" src="https://www.youtube.com/embed/w6L7Tt3TXJQ?si=84AtMMp7kMtTnApE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
