@@ -17,10 +17,10 @@ Towards the end of my PhD, I was able to visit York University in Canada to cond
         <iframe src="https://www.youtube.com/embed/w6L7Tt3TXJQ?si=84AtMMp7kMtTnApE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teleoperation/blueROV.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/teleoperation/blueROV.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teleoperation/UI.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/teleoperation/UI.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -53,13 +53,13 @@ Once the phsyical characterization of this device is completed, I plan to undert
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teleoperation/experimentLong.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/teleoperation/experimentLong.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teleoperation/target.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/teleoperation/target.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teleoperation/titleimg.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/teleoperation/titleimg.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
