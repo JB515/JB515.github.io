@@ -8,10 +8,16 @@ category: Current
 collabarators: ["Professor Michael Jenkin, York University"]
 ---
 
+Towards the end of my PhD, I was able to visit York University in Canada to conduct a study investigating the usefulness of haptic feedback when presenting environmental information from a teleoperated underwater robot. This consisted of an experiment in which my interactive soft haptic touchpad was connected to a Blue Robotics BlueROV2. The touchpad was used to control speed and direction whilst the robot passed through a cross-current to reach and inspect a floating target.
 
 
 
+## Research Aims
+- To understand the usefulness of multimodal haptic feedback in interpreting the movements of a remote robot.
 
+- To understand how different aspects of the robot's motion and environment can be represented by different haptic effects.
+
+- To assess the benefit of haptic feedback in a difficult real world task.
 
 
 
@@ -36,7 +42,7 @@ collabarators: ["Professor Michael Jenkin, York University"]
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/w6L7Tt3TXJQ?si=84AtMMp7kMtTnApE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" class="img-fluid rounded z-depth-1" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/w6L7Tt3TXJQ?si=84AtMMp7kMtTnApE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" class="img-fluid rounded z-depth-1" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption">

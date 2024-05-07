@@ -12,7 +12,7 @@ collabarators: ["Emeritus Professor Bob Spence, Imperial College London", "Dr Ma
 
 For my final MEng research project, which has branched into a number of further research projects that I continue to pursue, I developed a mobile, fingertip tactile display. This made advances over existing technolgies in its portability and ability to offer a more nuanced sensation than the simple raised-flat effect used in such displays up to this point. The finald device was equipped with a camera with a view to being able to scan printed text and graphics and convert them into tactile media.
 
-# Research Aims
+## Research Aims
 
 - To develop a novel, handheld tactile display with a better tactile resolution than existing electronic Braille displays.
 
@@ -32,7 +32,7 @@ For my final MEng research project, which has branched into a number of further 
     </div>
 </div>
 
-# A Novel Tactile Display
+## A Novel Tactile Display
 
 In order to meet the cost, size and performance requirements of the project, it was necessary to consider mechatronic designs beyond those used in traditional tactile displays. The design selected is based on an array of miniature stepper motors of the type used to adjust the lenses in digital cameras. These are fitted with leadscrews which connect to the tactile pins via rigid mechanical linkages. The stepper motors provide good accuracy and control without a large and complex sensing system for providing feedback. They are also small enough to create a usable x-y resolution (8x8 'taxels', or tactile pixels) that can still be held in one hand. The leadscrew design has the benefit of being unidirectional, meaning that forces from the motor can extend the taxel, but forces on the taxel will not turn the motor. This means that the motors can be completely powered down when not in use, improving power efficiency.
 
@@ -48,7 +48,7 @@ In order to meet the cost, size and performance requirements of the project, it 
     </div>
 </div>
 
-# Tactile Scanning Behaviour
+## Tactile Scanning Behaviour
 
 The combination of the bottom mounted camera and fingertip sized display presents an interesting tactile search use case for the device. This is because very few useful graphics can be fully represented on such a small display, meaning that the user will need to 'scan' their source material in order to obtain a complete view of the material. At first glance, this may appear to be a substantial deficiency in the concept, however it is important to remember that only a fingertip sized area actually recieves tactile information, and so the psychological apparatus for storing and combining these small sections of tactile stimuli is well established for most Braille readers and users of static tactile graphics.
 
