@@ -1,10 +1,10 @@
 ---
 layout: project
 title: Underwater Robot Teleoperation
-description: a project with no image
+description: Applied haptics
 img: /assets/img/projects/teleoperation/titleimg.png
 importance: 4
-category: Previous
+category: Current
 collabarators: ["Professor Michael Jenkin, York University"]
 ---
 

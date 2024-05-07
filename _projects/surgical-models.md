@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 3D Printed Surgical Models
-description: a project with a background image
+description: Real-feel surgical simulators
 img: assets/img/projects/3d-simulators/20230814_143959.jpg
 importance: 3
 category: Current
