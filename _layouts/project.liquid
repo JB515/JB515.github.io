@@ -22,6 +22,17 @@ layout: default
     </div>
   {% endif %}
 
+  {% if page.collabarators %}
+    <h2>Funding</h2>
+    <div>
+      <ul>
+      {% for funder in page.funding %}
+        <li>{{ collabarator }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+
   {% if page.related_publications %}
     <h2>References</h2>
     <div class="publications">
