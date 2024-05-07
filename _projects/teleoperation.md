@@ -54,7 +54,7 @@ Once the phsyical characterization of this device is completed, I plan to undert
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="https://www.youtube.com/embed/w6L7Tt3TXJQ?si=84AtMMp7kMtTnApE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" class="img-fluid rounded z-depth-1" allowfullscreen></iframe>
+        <iframe width="560" src="https://www.youtube.com/embed/w6L7Tt3TXJQ?si=84AtMMp7kMtTnApE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" class="img-fluid rounded z-depth-1" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption">
