@@ -23,9 +23,6 @@ Towards the end of my PhD, I was able to visit York University in Canada to cond
         {% include figure.liquid path="assets/img/projects/teleoperation/UI.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
 
 ## Research Aims
