@@ -69,6 +69,7 @@
     - title: Co-Founder and Chief Engineer
       institution: Human Robotix Ltd., London, United Kingdom
       year: 2021-present
+      description:
         - Designed and built a back-drivable wrist interface now being used in universities across the UK and Europe.
         - Co-founded Human Robotix Ltd. to sell this robot to researchers and clinicians.
 
@@ -84,6 +85,7 @@
     - title: Visiting Researcher
       institution: Royal London Dental Hospital, London, United Kingdom
       year: 2022
+      description:
         - Designed an approved, 3D printable, reusable face shield visor for rapid manufacturing and deployment early in the COVID-19 pandemic. Made and delivered nearly 3000 of these to hospitals and clinics in London.
         - Designed and built a smartphone-based face scanner to automatically generate 3D printable, personalized face mask adapters and implemented a pipeline to automatically 3D print these for hospital staff.
         - Designed innovative 3D printable implants and models to support novel maxillofacial surgeries, now being used clinically. 
@@ -93,6 +95,7 @@
     - title: Research Assistant
       institution: Imperial College London, United Kingdom
       year: 2020-2021
+      description:
         - Developing an affordable, portable, backdrivable force feedback interface for human motor control and haptics research and robotic physical rehabilitation.
         - Supervised by Professor Etienne Burdet
 
