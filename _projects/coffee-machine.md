@@ -11,6 +11,21 @@ funding: ["Imperial College London", "IBM"]
 
 One interesting HMI project I was able to take part in during my undergraduate degree was the creation of an internet connected, mechatronic exoskeleton for an office coffee machine. The project was set and sponsored by IBM, who at the time were interested in ways of retrofitting smart functionality to traditional household applicances.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+         {% include video.liquid path="https://www.youtube.com/embed/Es8ziBAFwhE?si=GYUoYAe5slsTWmmy" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/teleoperation/blueROV.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/teleoperation/UI.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    You can also have artistically styled 2/3 + 1/3 images, like these.
+</div>
+
 
 ## Project Aims
 
@@ -39,4 +54,3 @@ The obvious approach to adding smart functionality to 'dumb' appliances is to ad
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-
