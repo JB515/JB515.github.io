@@ -38,7 +38,7 @@ In order to meet the cost, size and performance requirements of the project, it 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tactile-mouse/disassembled-labelled.jpg" title="The Tactile Mouse" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/tactile-mouse/disassembled-label.jpg" title="The Tactile Mouse" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/tactile-mouse/pattern-1.jpeg" title="A tactile pattern" class="img-fluid rounded z-depth-1" %}
