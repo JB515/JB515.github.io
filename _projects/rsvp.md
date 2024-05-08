@@ -42,6 +42,6 @@ Despite the generation of a number of RSVP modes that utilise an illusion of dep
 
 ## Outcomes
 
-This investigation produced a great deal of useful data and my method, results and conclusions are reported in the paper ‘The Role of Perspective Cues in RSVP’. I was very excited to present this paper at the 21st International Conference on Information Visualisation, IV2017, at London Southbank University, where it generated considerable interest from delegates {% cite }.
+This investigation produced a great deal of useful data and my method, results and conclusions are reported in the paper ‘The Role of Perspective Cues in RSVP’. I was very excited to present this paper at the 21st International Conference on Information Visualisation, IV2017, at London Southbank University, where it generated considerable interest from delegates {% cite Brown2017 %}.
 
 
