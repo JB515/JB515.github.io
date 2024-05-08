@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 3D RSVP
-description: a project with no image
+description: Information presentation
 img: assets/img/projects/rsvp/design1.png
 importance: 4
 category: Previous
@@ -20,6 +20,7 @@ My early research focussed on the field of Information Visualisation, and in par
     The 3D design, with environmental cues
 </div>
 
+
 ## Research Aims
 
 - To better understand the visual impact of two strong visual perspective cues: magnification and environmental artefacs.
@@ -28,13 +29,16 @@ My early research focussed on the field of Information Visualisation, and in par
 
 - To investigate the possibility of a previously unidentified visual depth cue, rotation, via the Deep-Flat optical illusion.
 
+
 ## RSVP
 
 Rapid Serial Visual Presentation (RSVP) is a presentation technique for large collections of visual stimuli. The stimuli (words or images) are presented very fast, one at a time, to a user. Studies have shown that it is possible to correctly identify a previously seen target image at a rate of 10 per second. The effect is similar to riffling through the pages in a book. RSVP has been implemented in many ways in different designs. These can be classified in a number of ways - static/moving, single/multiple entry, 2D/3D - each with different aesthetic and performance characteristics.
 
+
 ## Creating Depth
 
 Despite the generation of a number of RSVP modes that utilise an illusion of depth, there is no evidence for the effects of creating this illusion. There has also been no investigation into the behaviour of the different design elements that make up that effect. I therefore designed and ran an investigation into how these design features (which we refer to as ‘depth cues’) create the effect of depth and how they impact on the performance and usability of the interface.
+
 
 ## Outcomes
 
