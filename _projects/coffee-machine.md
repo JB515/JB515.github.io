@@ -2,7 +2,7 @@
 layout: project
 title: CASE
 description: AI Coffee Machine
-img: assets/img/projects/coffee-machine/File_000.jpeg
+img: assets/img/projects/coffee-machine/CASE-1.jpeg
 importance: 4
 category: Previous
 collaborators: ["Jon McNamara, IBM", "Dr Christos Papavassiliou, Imperial College LOndon"]
@@ -16,10 +16,7 @@ One interesting HMI project I was able to take part in during my undergraduate d
          {% include video.liquid path="https://www.youtube.com/embed/Es8ziBAFwhE?si=GYUoYAe5slsTWmmy" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/teleoperation/blueROV.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/teleoperation/UI.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/coffee-machine/CASE-2.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,13 +39,13 @@ The obvious approach to adding smart functionality to 'dumb' appliances is to ad
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/coffee-machine/CASE-4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/coffee-machine/CASE-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/coffee-machine/CASE-GUI.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
