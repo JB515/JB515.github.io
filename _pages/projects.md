@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: Design. Make. Experiment.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [Current, Previous]
 horizontal: false
 ---
