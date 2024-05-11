@@ -6,76 +6,48 @@ img: assets/img/projects/stents/20210423_165936_edited.jpg
 importance: 2
 category: Previous
 collabarators: ["Mr Leo Cheng, Royal London Hospital", "Hristina Cvetanovska, Royal London Hospital"]
+related_pubications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Odontogenic cysts are fluid-filled voids in the jaw that can cause severe and painful swelling of the face. Treatment often involves drainage and promoting new bone growth in the empty space. Traditionally, surgeons might utilize an open surgical approach to drain the cyst and pack the cavity with bone graft material from the arm or leg. As well as being a long and expensive procedure, this can leave a significant opening in the jaw requiring facial stitches and a long recovery. An alternative, minimally invasive approach drains the cyst through the mouth and, rather than performing a bone graft, allows the bone is allowed to regrow naturally. To allow the cyst to be kept clean whilst healing, a nasopharyngeal tube is inserted down into the cyst via the gingiva. While preferable, this method can be uncomfortable for patients due to the tube's irritating presence in the mouth, and there is an ongoing risk of food or other foreign bodies entering the cyst. This project investigtaed soft mateiral 3D printing as a way of producing personalised stents {% cite Shah2023 %}.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/stents/skull-zoomed.jpg" title="A 3D printed model of a patient's skull showing the odontogenic cyst" class="img-fluid rounded z-depth-1" width="70%" align="center" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    A 3D printed model of a patient's skull showing the odontogenic cyst
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Research Aims
+
+- Investigate whether 3D printing is a viable method of producing personalised surgical implants
+
+- Identify safe, soft 3D printable materials to use for manufacturing decompression stents
+
+
+## Stent design
+
+The stents are customised for each patient, but feature: a semi closed end with a one-way valve to exclude food debris from the cyst and several slots to aid in suturing to the gingiva; a bell shaped end to aid in the positioning of the stent inside the gingiva and opening into the cyst; an optional angled profile to allow the stent to be more easily located around the patient's remaining teeth. The dimensions of the stent are determined for each patient and usually based on a 3D printed model of the patient's skull, reconstructed from CT scans performed whilst investigating and diagonsing the cyst.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/stents/stent.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/stents/insertion-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    A 3D printed decompression stent (L) being inserted into a patient's mouth during surgery (R)
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Material selection
 
-{% raw %}
+The stents are manufactured from silicone on a Formlabs 3D printer. Silicone is non-irritating and has low water absoption which is essential inside the mouth - generally considered a hostile environment for many materials. Additionally, silicone is soft, making the stent more comfortable for the patient to accommodate in the mouth for an extended period of time (generally 6 months or longer).
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Clinical impact and use
 
-{% endraw %}
+The stents are now being used with patients in several London hospitals. Odontogenic cysts are uncommon in the UK, however are extremely common in South Asia and Africa, where the project team also has strong clinical links. Early patients have been monitored and show good bone regrowth after around 6 months.

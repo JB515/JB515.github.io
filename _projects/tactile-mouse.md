@@ -1,7 +1,7 @@
 ---
 layout: project
 title: The Tactile Mouse
-description: a project with no image
+description: Master's research project
 img: /assets/img/projects/tactile-mouse/three-blind-mice.jpeg
 importance: 4
 category: Previous
@@ -10,7 +10,7 @@ collabarators: ["Emeritus Professor Bob Spence, Imperial College London", "Dr Ma
 ---
 
 
-For my final MEng research project, which has branched into a number of further research projects that I continue to pursue, I developed a mobile, fingertip tactile display. This made advances over existing technolgies in its portability and ability to offer a more nuanced sensation than the simple raised-flat effect used in such displays up to this point. The finald device was equipped with a camera with a view to being able to scan printed text and graphics and convert them into tactile media.
+For my final MEng research project, which has branched into a number of further research projects that I continue to pursue, I developed a mobile, fingertip tactile display {& cite Brown2021WHCMouse %}. This made advances over existing technolgies in its portability and ability to offer a more nuanced sensation than the simple raised-flat effect used in such displays up to this point. The finald device was equipped with a camera with a view to being able to scan printed text and graphics and convert them into tactile media.
 
 ## Research Aims
 
@@ -20,12 +20,9 @@ For my final MEng research project, which has branched into a number of further 
 
 - To investigate tactile representations of shape and colour.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/tactile-mouse/stepper.jpeg" title="The miniature stepper motor used in the Tactile Mouse" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/tactile-mouse/drive-module.jpeg" title="8 stepper motors combined into a single row drive module" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/tactile-mouse/disassembled-label.jpg" title="The Tactile Mouse" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/tactile-mouse/all-motors.jpeg" title="64 stepper motors assembled to drive an 8x8 taxel tactile display" class="img-fluid rounded z-depth-1" %}
@@ -36,17 +33,16 @@ For my final MEng research project, which has branched into a number of further 
 
 In order to meet the cost, size and performance requirements of the project, it was necessary to consider mechatronic designs beyond those used in traditional tactile displays. The design selected is based on an array of miniature stepper motors of the type used to adjust the lenses in digital cameras. These are fitted with leadscrews which connect to the tactile pins via rigid mechanical linkages. The stepper motors provide good accuracy and control without a large and complex sensing system for providing feedback. They are also small enough to create a usable x-y resolution (8x8 'taxels', or tactile pixels) that can still be held in one hand. The leadscrew design has the benefit of being unidirectional, meaning that forces from the motor can extend the taxel, but forces on the taxel will not turn the motor. This means that the motors can be completely powered down when not in use, improving power efficiency.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tactile-mouse/disassembled-label.jpg" title="The Tactile Mouse" class="img-fluid rounded z-depth-1" %}
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tactile-mouse/stepper.jpeg" title="The miniature stepper motor used in the Tactile Mouse" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tactile-mouse/pattern-1.jpeg" title="A tactile pattern" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tactile-mouse/pattern-2.jpeg" title="The same tactile pattern, translated downward as the mouse moves" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tactile-mouse/drive-module.jpeg" title="8 stepper motors combined into a single row drive module" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 
 ## Tactile Scanning Behaviour
 
