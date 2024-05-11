@@ -14,15 +14,10 @@ Towards the end of my PhD, I was able to visit York University in Canada to cond
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <div class="video-container">
-            {% include video.liquid path="https://www.youtube.com/embed/w6L7Tt3TXJQ?si=84AtMMp7kMtTnApE" class="img-fluid rounded z-depth-1" %}
-         </div>
+        {% include video.liquid path="https://www.youtube.com/embed/w6L7Tt3TXJQ?si=84AtMMp7kMtTnApE" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/teleoperation/blueROV.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/teleoperation/UI.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/teleoperation/titleimg.png" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -55,10 +50,10 @@ Once the phsyical characterization of this device is completed, I plan to undert
         {% include figure.liquid loading="eager" path="assets/img/projects/teleoperation/experimentLong.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/teleoperation/target.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/teleoperation/UI.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/teleoperation/titleimg.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/teleoperation/target.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
