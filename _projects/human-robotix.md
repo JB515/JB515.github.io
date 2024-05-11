@@ -21,7 +21,7 @@ In 2011, the Human Robotics Group at Imperial College London designed and built 
 
 The result - the HRX-1 - is a fully portable reimagining of the original robot. At less than 10KG fully packaged, it can be easily transported between research labs, clinics and researchers' or patients' homes. It's 600W brushless DC motor can generate up to 4Nm of torque and the handle can measure up to 11Nm of input torque. Software is provided for control and data logging through MATLAB, which also offers integration with a variety of other devices, sensors and software packages.
 
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" width="60%">
     <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/hrx/v1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
     <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/hrx/cnc-1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
     <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/hrx/batch-1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
