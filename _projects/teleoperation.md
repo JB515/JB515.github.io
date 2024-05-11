@@ -14,7 +14,9 @@ Towards the end of my PhD, I was able to visit York University in Canada to cond
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-         {% include video.liquid path="https://www.youtube.com/embed/w6L7Tt3TXJQ?si=84AtMMp7kMtTnApE" class="img-fluid rounded z-depth-1" %}
+        <div class="video-container">
+            {% include video.liquid path="https://www.youtube.com/embed/w6L7Tt3TXJQ?si=84AtMMp7kMtTnApE" class="img-fluid rounded z-depth-1" %}
+         </div>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/teleoperation/blueROV.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
