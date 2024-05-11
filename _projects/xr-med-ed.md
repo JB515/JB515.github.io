@@ -3,7 +3,7 @@ layout: project
 title: Haptics in Medical Training
 description: Haptics and XR for Medical Education
 img: assets/img/projects/xr-ed/neuro-merge.png
-importance: 1
+importance: 2
 category: Current
 collabarators: ["Professor Fernando Bello, Imperial College London", "Dr Lynette Jones, Massachusetts Institute of Technology", "Professor Amy Kyungwon Han, Seoul National University"]
 ---
@@ -23,18 +23,16 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/8dWB4RCKMFI?si=kK_PCXimy5EMqVx3" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/pmFqGnywuvo?si=s5fHalHwhkljqa3_" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Virtual reality simulations of an abdominal exmaination (L) and neurological examination (R)
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
