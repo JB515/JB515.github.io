@@ -10,12 +10,13 @@ collabarators: ["Dr Ildar Farkhatdinov, University of London"]
 funding: ["EPSRC via a PhD studentship and the National Centre for Nuclear Robotics funded project", "QMUL via an Impact Acceleration Grant", "RS Components via the Grassroots Student Project Fund", "IEEE via an Innovation in Haptics Award"]
 ---
 
-The first phase of my PhD research involves the development of a novel vibrotactile interface. This interface uses the principle of particle jamming to affect the propagation of vibrations to a user's finger or hand. The particle jamming effect provides a better degree of control over the vibrotactile response than simply altering the power supplied to a vibrating motor and allows the vibrotactile sensation to be controlled in terms of both amplitude and frequency.
+The first phase of my PhD research involves the development of a novel vibrotactile interface. This project, started during my PhD and expanding rapidly since, uses the principle of particle jamming to affect the softness of a tactile display, as well as serving as a basis for creating multimodal haptic devices which incorporate other sensations such as vibration, shape and temperature.
 
 ## Research Aims
-- To investigate the physical propagation of vibrations through a granular fluids of controllable viscosity.
-- To investigate how different tactile sensations (such as texture and motion) can be presented through vibrations.
-- To develop a method for transmitting vibrations digitally from a real world source to a human user (for example, in telerobotics).
+- To investigate how softness change can be used in a variety of haptic interactions
+- To particle jamming as a foundation for low-cost, highly portable soft haptic devices
+- To investigate the combination of softness and other tactile sensations, u
+- To investigate the physical propagation of vibrations through a granular fluids of controllable viscosity
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -27,7 +28,7 @@ The first phase of my PhD research involves the development of a novel vibrotact
 </div>
 
 ## Particle Jamming
-Particle jamming refers to an active area of research in condensed matter physics. The jamming of particles in a fluid has been proposed as a physical phase transition and refers to a state where the particles that make up that fluid are packed in such a way that they are physically connected to any adjacent particles. Jammed fluids are, by definition, denser than the same material in an unjammed state, and this leads to many changes in their properties, such as increased viscosity and stiffness. {% cite Brown2024_nonpneumatic_jamming%}
+Particle jamming is an emergent technology in soft robotics where the particles that make up a granular fluid are compacted such that each particle is braced against its adjacent particles. Jammed fluids are, by definition, stiffer and harder than the same material in an unjammed state, and this leads to many changes in their properties, such as increased viscosity and stiffness. {% cite Brown2024_nonpneumatic_jamming%}
 
 ## Adding Vibration
 
@@ -62,32 +63,6 @@ A prototype for a novel haptic device based on the particle jamming effect descr
 </div>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
 
