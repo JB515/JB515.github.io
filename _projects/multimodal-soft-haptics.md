@@ -2,7 +2,7 @@
 layout: project
 title: Soft Haptics
 description: Softness changing haptic interfaces
-img: assets/img/projects/soft-haptics/titleimage.jpg
+img: assets/img/projects/soft-haptics/20220517_140655-removebg-preview.png
 importance: 1
 category: Current
 related_publications: true
