@@ -28,17 +28,18 @@ The first phase of my PhD research involves the development of a novel vibrotact
 </div>
 
 ## Particle Jamming
-Particle jamming is an emergent technology in soft robotics where the particles that make up a granular fluid are compacted such that each particle is braced against its adjacent particles. Jammed fluids are, by definition, stiffer and harder than the same material in an unjammed state, and this leads to many changes in their properties, such as increased viscosity and stiffness. {% cite Brown2024_nonpneumatic_jamming%}
+Particle jamming is an emergent technology in soft robotics where the particles that make up a granular fluid are compacted such that each particle is braced against its adjacent particles. Jammed fluids are, by definition, stiffer and harder than the same material in an unjammed state, and this leads to many changes in their properties, such as increased viscosity and stiffness. Whilst particle jamming is usually achieved using a vacuum, my work in this area has produced several mechanial techniques for jamming particles {% cite Brown2024_nonpneumatic_jamming%}. These reduce the cost, size, weight and complexity of producing soft haptic devices using particle jamming.
 
 ## Adding Vibration
+By adding other hardware to the jamming fluid, it is possible to create other haptic sensations. For example, during my PhD research I embedded a vibrating motor inside the jamming material. This had no effect on the hardness change but the particles were able to transfer vibrations to the container, and therefore a user's hand.
 
-## Characterisation
-A prototype for a novel haptic device based on the particle jamming effect described above was completed in early 2019 (photo at the top of the page) and very kindly funded by the IEEE Technical Committee on Haptics. The initial prototype consists of a rigid case filled with small particles, covered by a silicone touch pad. This mechanical device can be connected to an electronic vacuum regulator to control the strength of the jamming effect. This device uses a simple vacuum pump to generate an area of low pressure inside the case, forcing the soft cover into the device and causing the particles to jam. An ERM type vibrating motor is loosly suspended in the fluid to provide vibrations which are then restricted by the jamming of the particles. {% cite Brown2020_Soft_Haptic_Interface_Based_On_Vibration %}
+A prototype for a haptic device based on the vibrating and hardness changing effect described above was built and consisted of a rigid case filled with small particles, covered by a silicone touch pad. This mechanical device can be connected to an electronic vacuum regulator to control the strength of the jamming effect. This device uses a simple vacuum pump to generate an area of low pressure inside the case, forcing the soft cover into the device and causing the particles to jam. An ERM type vibrating motor is loosly suspended in the fluid to provide vibrations which are then restricted by the jamming of the particles {% cite Brown2020_Soft_Haptic_Interface_Based_On_Vibration %}.
 
 
 ## Interactive Devices
 
-{% cite Brown2021WHCJoystick %}{% cite Brown2021WHCTouchpad %}
+Interactive devices were also built based on this technologies. The first was a touchpad which used force sensors (load cells) to detect the position of and force applied by a user's finger, whilst changing its hardness and vibrating {% cite Brown2021WHCTouchpad %}. The second was a joystick, in which the soft silicone handle was filled with particles, and sealed with an airtight plastic base {% cite Brown2021WHCJoystick %}.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -50,19 +51,8 @@ A prototype for a novel haptic device based on the particle jamming effect descr
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+## Expanding Multimodality
+
+My long-term research ambition is to combine other haptic modalities into a tactile display, using particle jamming as a foundation but adding other hardware to produce other effects. This work is ongoing and will be published and shared here when more progress has been made.
 
 
