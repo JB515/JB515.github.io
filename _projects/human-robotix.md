@@ -13,7 +13,7 @@ images:
 In 2011, the Human Robotics Group at Imperial College London designed and built Hi5 - a high performance torque feedback interface for the wrist which has been used in studies ranging from human motor control to haptic sensations and even physical treatments for neurodegenerative disorders like Parkinson's disease. In 2020, I returned to Imperial College tasked with taking the full sized robot and producing a portable, commercialisable version.
 
 <div class="row justify-content-sm-center">
-    {% include figure.liquid path="assets/img/projects/hrx/hrx-1.png" title="The HRX-1" class="img-fluid rounded z-depth-1" width="70%" %}
+    {% include figure.liquid path="assets/img/projects/hrx/hrx-1.png" title="The HRX-1" class="img-fluid rounded z-depth-1" width="70%" center="true" %}
 </div>
 <div class="caption">
     The HRX-1 wrist manipulation robot.
