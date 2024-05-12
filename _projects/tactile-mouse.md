@@ -10,7 +10,7 @@ collabarators: ["Emeritus Professor Bob Spence, Imperial College London", "Dr Ma
 ---
 
 
-For my final MEng research project, which has branched into a number of further research projects that I continue to pursue, I developed a mobile, fingertip tactile display {& cite Brown2021WHCMouse %}. This made advances over existing technolgies in its portability and ability to offer a more nuanced sensation than the simple raised-flat effect used in such displays up to this point. The finald device was equipped with a camera with a view to being able to scan printed text and graphics and convert them into tactile media.
+For my final MEng research project, which has branched into a number of further research projects that I continue to pursue, I developed a mobile, fingertip tactile display {% cite Brown2021WHCMouse %}. This made advances over existing technolgies in its portability and ability to offer a more nuanced sensation than the simple raised-flat effect used in such displays up to this point. The finald device was equipped with a camera with a view to being able to scan printed text and graphics and convert them into tactile media.
 
 ## Research Aims
 
