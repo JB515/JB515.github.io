@@ -14,7 +14,7 @@ Odontogenic cysts are fluid-filled voids in the jaw that can cause severe and pa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/stents/skull-zoomed.jpg" title="A 3D printed model of a patient's skull showing the odontogenic cyst" class="img-fluid rounded z-depth-1" width="70%" align="center" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/stents/skull-zoomed.jpg" title="A 3D printed model of a patient's skull showing the odontogenic cyst" class="img-fluid rounded z-depth-1" width="70%" center="true" %}
     </div>
 </div>
 <div class="caption">
