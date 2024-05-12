@@ -6,20 +6,20 @@ img: assets/img/projects/xr-ed/neuro-merge.png
 importance: 2
 category: Current
 collabarators: ["Professor Fernando Bello, Imperial College London", "Dr Lynette Jones, Massachusetts Institute of Technology", "Professor Amy Kyungwon Han, Seoul National University"]
+funding: ["Imperial College Digital Innovation Fund"]
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Medicine is an inherently hands-on field of study, with students needing to learn important dexterous clinical skills used in physical examination and surgery. Whilst students are often given opportunities to practice these during placements and residencies, these opportunities are inherently ad-hoc and there is never any guarantee that a medical student will encounter a full range of examinations and conditions during their time in hospital. Student experience in some supernumary specialisms such as dermatology is particularly inconsistent. This project aims to combine haptics and extended reality to create realistic, instructive simulations of the physical examinations taught in the undergraduate medical curriculum to allow students to learn and practice these skills in a consistent and low-risk environment before being asked to perform them on a patient.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Research Aims
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+- Investigate the challenges in teaching manual skills to medical students
+- Investigate approaches to simulating soft tissues using haptic devices
+- Explore the benefits of haptic extended reality simulations on student engagement, information retention and confindence
+
+## Physical Exmaination
+
+Undergraduate medical students need to learn a wide range of physical examinations, from intimate examinations of the rectum and breast to complex and highly procedural examinations of the neurological end vascular systems. These are examined during medical school throigh practical examinations known as OSCEs which students must pass to continue their studies. Whilst some of these examinations are taught using benchtop models, students usually practice examinations on healthy peers or simulated patients, recieving limited feedback and no exposure to pathology. This project focusses on four physical exmainations for which there is not currently any educational simulation: dermatology, lumps, vascular, and the peripheral neurological examination.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -33,47 +33,12 @@ To give your project a background in the portfolio page, just add the img tag to
     Virtual reality simulations of an abdominal exmaination (L) and neurological examination (R)
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## The Role of Haptics
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+The advantages of including haptic feedback in simulations of physical exmainations is obvious. When examining a lump, a doctor must take note if it's hardness, texture, mobility, any indications of fluid build up or plusation. Similarly, an examination of the vascular system may reveal high or low skin temperature (indicaitng abnormal blood flow) and a variety of pulse characters. Using haptics to simulate these physical symptoms teaches students to recognise potentially subtle or unintuitive indications, and has the potential to coach dexterous skills that are often missed in conventional teaching.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
+## Deployment and Impact
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+The project is a collaboration with the Imprial College School of Medicine. Medical students will participant in pilots of the simulations during their clinical skills and methods classes, and work is underway to organize the long-term inclusion of these simulations in the undergraduate medical curriculum.
