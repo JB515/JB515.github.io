@@ -170,4 +170,74 @@
         - Personalised medical devices
         - Rehabilitation robotics
 
-
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Mechanical CAD
+      items:
+        - Fusion 360
+        - Solidworks
+        - Autodesk Inventor
+        - Siemens NX
+    - title: Electrical CAD
+      items:
+        - Autodesk Eagle
+        - Altium Designer
+    - title: Fabrication and Rapid Proptotyping
+      items:
+        - 3D printing (FDM, SLA, DLP)
+        - Laser cutting
+        - CNC machining (milling and turning)
+        - PCB manufacturing (chemical etching and milling)
+        - PCB assembly
+        - Water jet cutting
+        - Thermoforming plastics
+        - Casting silicone, plaster and metal
+        - Manual machining
+        - Preparation of engineering drawings
+        - General workshop skills
+    - title: Embedded Systems Development
+      items:
+        - Raspberry Pi
+        - STM32
+        - ESP8266/ESP32
+        - Arduino
+        - ARM mbed
+        - Altera FPGA
+    - title: Programming Languages
+      items:
+        - Python
+        - C/C++
+        - C#
+        - Java
+        - SQL
+    - title: Software Tools
+      items:
+        - Matlab
+        - Unity
+        - OpenCV
+        - OpenPose
+        - SFML
+        - AWS
+        - Git
+        - ROS
+        - LaTeX
+    - title: Specific Platforms and Technologies
+      items:
+        - BlueRobotics BlueROV2
+        - Human Robotix HRX-1
+        - Meta Quest
+        - SenseGlove Nova
+        - Maxon EPOS/ESCON motion control
+        - Actronika HSD high-definition haptics controller
+        - HAAS CNC controller
+    - title: Misc academic/research skills
+      items:
+        - Good clinical practice (clinical studies certification)
+        - Human participant studies
+        - Medical device certification (CE marking)
+        - IP management and commercialisation
+    - title: Other software
+      items:
+        - Adobe Illustrator
+        - Adobe Premiere Pro
