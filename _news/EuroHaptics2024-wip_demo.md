@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented my student's project 'Dermaphone' in the demo and WIP session at EuroHaptics 2024.
+I presented my student's MEng project - Dermaphone - at EuroHaptics 2024.
