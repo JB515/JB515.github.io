@@ -14,9 +14,6 @@ funding: ["EPSRC via a PhD studentship and the National Centre for Nuclear Robot
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/2DWNzQPqhn8?si=PK0XxpJ3dAQfHKkP" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/soft-haptics/Explosion-labelled-page-001.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
 </div>
 
 A key part of my PhD research involved the development of a novel softness-changing, vibrotactile interface. This project, which has expanded rapidly in the last few years, uses the principle of particle jamming to affect the softness of a tactile display, as well as serving as a basis for creating multimodal haptic devices which incorporate other sensations such as vibration, shape and temperature.
