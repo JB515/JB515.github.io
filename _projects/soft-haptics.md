@@ -6,17 +6,26 @@ img: assets/img/projects/soft-haptics/20220517_140655-removebg-preview.png
 importance: 1
 category: Current
 related_publications: true
-collabarators: ["Dr Ildar Farkhatdinov, University of London"]
-funding: ["EPSRC via a PhD studentship and the National Centre for Nuclear Robotics funded project", "QMUL via an Impact Acceleration Grant", "RS Components via the Grassroots Student Project Fund", "IEEE via an Innovation in Haptics Award"]
+collabarators: ["Prof. Fernando Bello, Imperial College London", "Dr. Lynette Jones, MIT", "Prof. Amy Kyungwon Han, Seoul National University", "Dr. Ildar Farkhatdinov, University of London"]
+funding: ["EPSRC via a PhD studentship and the National Centre for Nuclear Robotics funded project", "UKRI and Mitacs via the Globalink UK-Canada Doctoral Exchange Programme", "QMUL via an Impact Acceleration Grant", "RS Components via the Grassroots Student Project Fund", "Imperial College and MIT via a Global Seed Fund award", "IEEE via an Innovation in Haptics Award"]
 ---
 
-The first phase of my PhD research involves the development of a novel vibrotactile interface. This project, started during my PhD and expanding rapidly since, uses the principle of particle jamming to affect the softness of a tactile display, as well as serving as a basis for creating multimodal haptic devices which incorporate other sensations such as vibration, shape and temperature.
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/2DWNzQPqhn8?si=PK0XxpJ3dAQfHKkP" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/soft-haptics/Explosion-labelled-page-001.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+A key part of my PhD research involved the development of a novel softness-changing, vibrotactile interface. This project, which has expanded rapidly in the last few years, uses the principle of particle jamming to affect the softness of a tactile display, as well as serving as a basis for creating multimodal haptic devices which incorporate other sensations such as vibration, shape and temperature.
 
 ## Research Aims
 - To investigate how softness change can be used in a variety of haptic interactions
 - To particle jamming as a foundation for low-cost, highly portable soft haptic devices
-- To investigate the combination of softness and other tactile sensations, u
-- To investigate the physical propagation of vibrations through a granular fluids of controllable viscosity
+- To investigate the combination of softness and other tactile sensations
+- To investigate the physical propagation of temperature and vibration through a granular fluids of controllable stiffness
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
