@@ -7,6 +7,7 @@ importance: 4
 category: Previous
 related_publications: true
 collabarators: ["Dr Elisabetta Versace, Queen Mary University of London", "Dr Lorenzo Jamone, Queen Mary University of London", "Dr Shuge Wang, Queen Mary University of London"]
+funding: ["UK Research and Innovation"]
 ---
 
 I spent 2019 working with a team of animal psychologists to study the effects of multi-modal stimulation on infant chicks (0-5 days old). This has involved designing and building relatively compact robots to vibrate and play sounds when pecked by a chick. It is hoped that the results from this study will inform ongoing effors to automate chicken farming using robotic and electronic devices, as well as ever fascinating strides toward creating realistic, helpful, robotic pets.

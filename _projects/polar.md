@@ -6,6 +6,7 @@ img: assets/img/projects/polar/badge.png
 importance: 2
 category: Current
 related_publications: true
+funding: ["Imperial College London"]
 collabarators: ["Dr Angus B. Clark, Imperial College London", "Dr Buki Omarali, Imperial College London"]
 ---
 

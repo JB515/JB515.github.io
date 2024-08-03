@@ -6,7 +6,7 @@ img: /assets/img/projects/teleoperation/titleimg.png
 importance: 4
 category: Current
 collabarators: ["Professor Michael Jenkin, York University"]
-funding: ["UKRI and Mitacs via the Globalink UK-Canada Doctoral Exchange Scheme", "NSERC National Canadian Field Robotics Network"]
+funding: ["UKRI and Mitacs via the Globalink UK-Canada Doctoral Exchange Scheme", "NSERC National Canadian Robotics Network"]
 ---
 
 Towards the end of my PhD, I was able to visit York University in Canada to conduct a study investigating the usefulness of haptic feedback when presenting environmental information from a teleoperated underwater robot. This consisted of an experiment in which my interactive soft haptic touchpad was connected to a Blue Robotics BlueROV2. The touchpad was used to control speed and direction whilst the robot passed through a cross-current to reach and inspect a floating target.

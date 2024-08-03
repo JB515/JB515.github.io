@@ -7,7 +7,7 @@ importance: 1
 category: Previous
 related_publications: true
 collabarators: ["Professor Shakeel Shahdad, Royal London Hospital", "Dr Ahmed Din, Royal London Hospital", "Dr Sarah Waia, Royal London Hospital", "Hristina Cvetanovska, Royal London Hospital", "Professor Kaspar Althoefer, Queen Mary University of London", "Dr Ildar Farkhatdinov, University of London", "Dr Bukeikhan Omarali, Queen Mary University of London"]
-Funders: ["Bart's Charity", "Queen Mary University of London", "Charitable donations from a Facebook fundraiser"]
+funding: ["Bart's Charity", "Queen Mary University of London", "Charitable donations from a Facebook fundraiser"]
 ---
 
 In March 2020, at the start of the global COVID-19 pandemic, the UK's supply chain for medical grade PPE collapsed under unprecedented demand and a workforce that could be sent into quarantine at a moment's notice. As a result frontline clinical staff in some of the UK's busiest hospitals were left to care for patients without adequate protective equipment. To respond to this, a coalition of experts in medicine and surgery, medical devices, product design and digital manufacturing was formed between Queen Mary University of London and the Royal London Dental Hospital to design safe, effective and reusable PPE (Personal Protective Equipment) that could be manufactured quickly to meet the urgent demands of London's hospitals and medical and dental surgeries.

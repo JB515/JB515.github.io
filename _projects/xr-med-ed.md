@@ -6,7 +6,7 @@ img: assets/img/projects/xr-ed/neuro-merge.png
 importance: 2
 category: Current
 collabarators: ["Professor Fernando Bello, Imperial College London", "Dr Lynette Jones, Massachusetts Institute of Technology"]
-funding: ["Imperial College Digital Innovation Fund"]
+funding: ["Imperial College London Digital Innovation Fund"]
 ---
 
 Medicine is an inherently hands-on field of study, with students needing to learn important dexterous clinical skills used in physical examination and surgery. Whilst students are often given opportunities to practice these during placements and residencies, these opportunities are inherently ad-hoc and there is never any guarantee that a medical student will encounter a full range of examinations and conditions during their time in hospital. Student experience in some supernumary specialisms such as dermatology is particularly inconsistent. This project aims to combine haptics and extended reality to create realistic, instructive simulations of the physical examinations taught in the undergraduate medical curriculum to allow students to learn and practice these skills in a consistent and low-risk environment before being asked to perform them on a patient.

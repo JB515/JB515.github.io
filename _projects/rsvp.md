@@ -7,6 +7,7 @@ importance: 4
 category: Previous
 related_publications: true
 collabarators: ["Emeritus Professor Bob Spence, Imperial College London", "Dr Mark Witkowski, Imperial College London", "Dr James Mardell, Imperial College London"]
+funding: ["Imperial College London"]
 ---
 
 My early research focussed on the field of Information Visualisation, and in particular, Rapid Serial Visual Presentation. This project, conducted alongside my undergraduate studies, investigated how certain perspective cues affects user performance in a simple image search task. better understand the competing effects of psychologically prefering 3D environments, but also the negative effects of the speficic visual cues that create this effect, such as non-linear scaling over time and motion blurring.

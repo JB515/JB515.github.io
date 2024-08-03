@@ -7,7 +7,7 @@ importance: 1
 category: Current
 related_publications: true
 collabarators: ["Prof. Fernando Bello, Imperial College London", "Dr. Lynette Jones, MIT", "Prof. Amy Kyungwon Han, Seoul National University", "Dr. Ildar Farkhatdinov, University of London"]
-funding: ["EPSRC via a PhD studentship and the National Centre for Nuclear Robotics funded project", "UKRI and Mitacs via the Globalink UK-Canada Doctoral Exchange Programme", "QMUL via an Impact Acceleration Grant", "RS Components via the Grassroots Student Project Fund", "Imperial College and MIT via a Global Seed Fund award", "IEEE via an Innovation in Haptics Award"]
+funding: ["EPSRC via a PhD studentship and the National Centre for Nuclear Robotics funded project", "QMUL via an Impact Acceleration Grant", "RS Components via the Grassroots Student Project Fund", "UKRI and NRF via a UK-Korea Biomedical Partnering Award", "Imperial College and MIT via a Global Seed Fund award", "IEEE via an Innovation in Haptics Award"]
 ---
 
 <div class="row justify-content-sm-center">
