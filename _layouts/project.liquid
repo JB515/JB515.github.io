@@ -22,6 +22,18 @@ layout: default
     </div>
   {% endif %}
 
+  {% if page.students %}
+    <h2>Students</h2>
+    The following students made major contributions to this project whilst under my supervision:
+    <div>
+      <ul>
+      {% for student in page.students %}
+        <li>{{ student }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+
   {% if page.funding %}
     <h2>Funding</h2>
     <div>
