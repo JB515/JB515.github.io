@@ -52,7 +52,6 @@
         - Close collaboration with surgeons and clinical teaching staff in multiple disciplines.
         - Designing and executing user studies with both non-specialist and expert participants.
         - Led a team of three researchers investigating optimized 3D printing of lower limb prosthetics.
-        - Co-Chair of the Imperial College Special Interest Group on XR in Education
         - Funded by the Imperial College Digital Innovation Fund
 
     - title: Visiting Researcher
@@ -62,7 +61,6 @@
         - Conducted research into soft, shape changing tactile displays to simulate medical lumps
         - Embedded in the HeRo (Healthcare Robotics) Lab
         - Funded by UKRI (UK) and NRF (Korea)
-
 
     - title: Co-Founder and Chief Engineer
       institution: Human Robotix Ltd., London, United Kingdom
@@ -107,7 +105,7 @@
   contents:
     - year: 2024
       items:
-        - 2023 UK Best PhD in Robotics Award, sponsored by Queen Mary University of London (joint 2nd place)
+        - 2023 UK Best PhD in Robotics Award (joint 2nd place)
         - Honorable Mention for Best Paper, IEEE Haptics Symposium
     - year: 2021
       items:
@@ -135,6 +133,9 @@
 - title: Teaching
   type: nested_list
   contents:
+    - title: Educational leadership
+      items:
+        - Co-chair, Imperial College Special Interest Group on Extended Reality in Education (2023-present)
     - title: Lecturing
       items:
         - Guest lecturer, Design and Control of Medical Robots, Seoul National University
@@ -147,20 +148,20 @@
         - Software Engineering group project, Queen Mary University of London
     - title: Supervision
       items:
-        - I have supervised or co-supervised 18 research project students on MEng, MSc, MRes, BSc and iBSc programmes
+        - I have supervised or co-supervised 19 research project students on MRes, MSc, MEng, BEng, BSc and iBSc programmes
         - 4 of my past students recieved awards for their projects
         - 2 of my past students have gone on to undertake PhDs relevant to their projects
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
     - title: Haptics
       items:
         - Soft haptic devices
-        - Multimodal haptic interactions
+        - Multimodal haptic interfaces
         - Medical simulation using haptics
-        - Telerobotics
         - Haptic information representation
+        - Haptic assistance in telerobotics
     - title: Soft Robotics
       items:
         - Soft actuator design
@@ -169,7 +170,9 @@
       items:
         - Prosthetics
         - Personalised medical devices
-        - Rehabilitation robotics
+        - Robotics for rehabilitation
+
+
 
 - title: Technical Skills
   type: nested_list
@@ -201,7 +204,7 @@
       items:
         - Raspberry Pi
         - STM32
-        - ESP8266/ESP32
+        - ESP32/ESP8266
         - Arduino
         - ARM mbed
         - Altera FPGA
@@ -227,12 +230,12 @@
       items:
         - BlueRobotics BlueROV2
         - Human Robotix HRX-1
-        - Meta Quest
+        - Meta Quest (2,3,Pro)
         - SenseGlove Nova
         - Maxon EPOS/ESCON motion control
         - Actronika HSD high-definition haptics controller
         - HAAS CNC controller
-    - title: Misc academic/research skills
+    - title: Other academic/research skills
       items:
         - Good clinical practice (clinical studies certification)
         - Human participant studies
