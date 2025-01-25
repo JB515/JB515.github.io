@@ -1,82 +1,48 @@
 ---
 layout: project
 title: 3D RSVP
-description: a project with no image
+description: Information presentation
 img: assets/img/projects/rsvp/design1.png
 importance: 4
 category: Previous
 related_publications: true
 collabarators: ["Emeritus Professor Bob Spence, Imperial College London", "Dr Mark Witkowski, Imperial College London", "Dr James Mardell, Imperial College London"]
+funding: ["Imperial College London"]
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+My early research focussed on the field of Information Visualisation, and in particular, Rapid Serial Visual Presentation. This project, conducted alongside my undergraduate studies, investigated how certain perspective cues affects user performance in a simple image search task. better understand the competing effects of psychologically prefering 3D environments, but also the negative effects of the speficic visual cues that create this effect, such as non-linear scaling over time and motion blurring.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/rsvp/design1.png" title="The 3D design, with environmental cues" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    The 3D design, with environmental cues
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Research Aims
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+- To better understand the visual impact of two strong visual perspective cues: magnification and environmental artefacs.
 
-{% raw %}
+- To investigate (in a specific and limited way) the hypothesis that humans have an evolutionary preference for 3D environments.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+- To investigate the possibility of a previously unidentified visual depth cue, rotation, via the Deep-Flat optical illusion.
 
-{% endraw %}
+
+## RSVP
+
+Rapid Serial Visual Presentation (RSVP) is a presentation technique for large collections of visual stimuli. The stimuli (words or images) are presented very fast, one at a time, to a user. Studies have shown that it is possible to correctly identify a previously seen target image at a rate of 10 per second. The effect is similar to riffling through the pages in a book. RSVP has been implemented in many ways in different designs. These can be classified in a number of ways - static/moving, single/multiple entry, 2D/3D - each with different aesthetic and performance characteristics.
+
+
+## Creating Depth
+
+Despite the generation of a number of RSVP modes that utilise an illusion of depth, there is no evidence for the effects of creating this illusion. There has also been no investigation into the behaviour of the different design elements that make up that effect. I therefore designed and ran an investigation into how these design features (which we refer to as ‘depth cues’) create the effect of depth and how they impact on the performance and usability of the interface.
+
+
+## Outcomes
+
+This investigation produced a great deal of useful data and my method, results and conclusions are reported in the paper ‘The Role of Perspective Cues in RSVP’. I was very excited to present this paper at the 21st International Conference on Information Visualisation, IV2017, at London Southbank University, where it generated considerable interest from delegates {% cite Brown2017 %}.
+
+

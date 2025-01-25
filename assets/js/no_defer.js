@@ -2,7 +2,7 @@
 $(document).ready(function () {
   $("table").each(function () {
     if (determineComputedTheme() == "dark") {
-      $(this).addClass("table-dark");
+      $(this).removeClass("table-dark");
     } else {
       $(this).removeClass("table-dark");
     }

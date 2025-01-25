@@ -6,7 +6,7 @@ img: /assets/img/projects/teleoperation/titleimg.png
 importance: 4
 category: Current
 collabarators: ["Professor Michael Jenkin, York University"]
-funding: ["UKRI and Mitacs via the Globalink UK-Canada Doctoral Exchange Scheme", "NSERC National Canadian Field Robotics Network"]
+funding: ["UKRI and Mitacs via the Globalink UK-Canada Doctoral Exchange Scheme", "NSERC National Canadian Robotics Network"]
 ---
 
 Towards the end of my PhD, I was able to visit York University in Canada to conduct a study investigating the usefulness of haptic feedback when presenting environmental information from a teleoperated underwater robot. This consisted of an experiment in which my interactive soft haptic touchpad was connected to a Blue Robotics BlueROV2. The touchpad was used to control speed and direction whilst the robot passed through a cross-current to reach and inspect a floating target.
@@ -14,17 +14,11 @@ Towards the end of my PhD, I was able to visit York University in Canada to cond
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <iframe src="https://www.youtube.com/embed/w6L7Tt3TXJQ?si=84AtMMp7kMtTnApE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        {% include video.liquid path="https://www.youtube.com/embed/2Fw3AZG2Tho?si=ypefr-NcA_ofuXnr" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/teleoperation/blueROV.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/teleoperation/participant-touchpad.png" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/teleoperation/UI.jpg" title="The BlueROV2" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
 
@@ -53,13 +47,13 @@ Once the phsyical characterization of this device is completed, I plan to undert
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/teleoperation/experimentLong.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/teleoperation/titleimg.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/teleoperation/UI.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/teleoperation/target.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/teleoperation/titleimg.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

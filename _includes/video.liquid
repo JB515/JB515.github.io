@@ -10,7 +10,7 @@
       {% if include.width %}
         width="{{ include.width }}"
       {% else %}
-        width="auto"
+        width="100%"
       {% endif %}
       {% if include.height %}
         height="{{ include.height }}"
@@ -53,6 +53,7 @@
     />
 
   {% else %}
+  <div class="video-container">
     <iframe
       src="{{ include.path }}"
       {% if include.class %}
@@ -64,7 +65,7 @@
       {% if include.width %}
         width="{{ include.width }}"
       {% else %}
-        width="auto"
+        width="100%"
       {% endif %}
       {% if include.height %}
         height="{{ include.height }}"
@@ -90,6 +91,7 @@
         title="{{ include.title }}"
       {% endif %}
     />
+    </div>
   {% endif %}
   {% if include.caption %}
     <figcaption class="caption">{{ include.caption }}</figcaption>

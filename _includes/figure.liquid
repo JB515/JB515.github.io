@@ -68,6 +68,9 @@
       {% elsif site.lazy_loading_images %}
         loading="lazy"
       {% endif %}
+      {% if include.center %}
+        style="margin:auto;display:block"
+      {% endif %}
       onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
     >
   </picture>
@@ -76,3 +79,5 @@
     <figcaption class="caption">{{ include.caption }}</figcaption>
   {% endif %}
 </figure>
+
+

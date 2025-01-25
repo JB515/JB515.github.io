@@ -6,76 +6,39 @@ img: assets/img/projects/3d-simulators/20230814_143959.jpg
 importance: 3
 category: Current
 collabarators: ["Mr Maxim Horwitz, Chelsea and Westminster Hospital", "Dr Sofia Chacon, Chelsea and Westminster Hospital", "Dr Reza Haghighi Osgouei, Imperial College London", "Dr Orene Greer, Imperial College London"]
+images:
+    slider: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Complex surgical procedures are difficult to train with computer generated simulations due to the dexterity required by surgeons. In some cases, physical models cannot be matched, however commercially avaialble models are expensive and often oversimplified to be easily mass producable. This project investigates 3D printing and silicone casting as a means of producing highly accurate surgical models with realistic anatomy and tactile feel.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Research Aims
+- To investigate ways of using 3D printing to produce highly realistic surgical models
+- To assess which surgical specialisms can benefit from physical anatomical models for simulation training
+- To evaluate the benefit of physical models for training surgeons in complex procedures
+- To identify affordable and easily workable materials that can realistically simulate the properties of soft tissues
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Orthopaedic Hand Surgery
+
+The first model I was involed in creating was a simulation of a carpal tunnel patient. In carpal tunnel syndrome, the transverse carpal ligament traps and exerts pressure on the median nerve, so it must be cut open to release pressure on the nerve. To do this, an incision is made in the palm of the hand and the ligament cut from below. A CT scan of a real hand was used to create a skeleton and skin model, which were composited together to make a mould that could accommodate 3D printed plastic bones. A section of the palm of the hand was then cut away and redesigned to feature the major tissue layers that a surgeon would expect to encounter whilst making their incision: skin; superficial fat; fascia; deep fat; ligament; and muscle. A nerve was pre-cast and inserted under the ligament before casting. The model is currently undergoing being validated with hand surgeons at several London hospitals.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <swiper-container keyboard="true" navigation="true" pagination="true" pagination-type="progressbar" navigation="true"   autoplay-delay="2500" autoplay-disable-on-interaction="false" loop="true">
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/bones.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/moulds.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/casting.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/hand.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/surgery-1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/surgery-2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/surgery-3.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/surgery-4.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/surgery-5.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/layers.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/progress.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+        </swiper-container>
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The carpal tunnel release model
 </div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

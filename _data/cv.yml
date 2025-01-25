@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Joshua Brown
-    - name: Date of Birth
-      value: 3rd May 1996
     - name: Languages
       value: English
 
@@ -15,14 +13,14 @@
       institution: Queen Mary University of London, United Kingdom
       year: 2024
       description:
-        -	Developed soft haptic technologies for real-time robot operation in difficult environments. 
-        -	Co-designed a 3D printable face shield visor for COVID-19 protection, the second such product to gain  medical certification in the UK. Over 3,000 of these visors were produced and used in London hospitals. 
-        -	Equipment manager for the Centre for Advanced Robotics rapid prototyping lab responsible for all training,  consumables, maintenance and documentation
-        -	Won funding for and participated in a 3-month visit to York University, Canada working on haptic feedback  for teleoperation of underwater robots
-        -	Supported undergraduate students competing in the 2020 Cybathlon (all-terrain wheelchair) competition 
-        -	Supervised/co-supervised 8 MSc, MEng and BSc project students to completion (2 prize winning projects) 
-        -	Webmaster for the Centre for Advanced Robotics public website 
-        -	Funded by the Engineering and Physical Sciences Research Council 
+        - Developed soft haptic technologies for real-time robot operation in difficult environments
+        - Co-designed a 3D printable face shield visor for COVID-19 protection
+        - Equipment manager for the Centre for Advanced Robotics rapid prototyping lab
+        - Won funding for and participated in a 3-month visit to York University, Canada
+        - Supported undergraduate students competing in the 2020 Cybathlon (all-terrain wheelchair) competition
+        - Supervised/co-supervised 8 MSc, MEng and BSc project students to completion (2 prize winning projects)
+        - Webmaster for the Centre for Advanced Robotics public website
+        - Funded by the Engineering and Physical Sciences Research Council
 
     - title: MEng, Electronic and Information Engineering
       institution: Imperial College London, United Kingdom
@@ -30,18 +28,17 @@
       description:
         - title: Master's project
           contents:
-            -	Developed a fingertip tactile display to impart a tactile representation of printed text, shape and colour
-            -	Awarded 85% mark and the Eric Laithwaite prize for outstanding innovation in an individual project
-            -	Demonstrated this and other HCI projects at the Imperial College and Great Exhibition Road Festivals
+            - Developed a fingertip tactile display to impart a tactile representation of printed text, shape and colour
+            - Awarded 85% mark and the Eric Laithwaite prize for outstanding innovation in an individual project
+            - Demonstrated this and other HCI projects at the Imperial College and Great Exhibition Road Festivals
         - title: Projects
           contents:
-            -	Built a robotic walking aid featuring obstacle avoidance and detection of falls and clinical gait disorders
-            -	Built a voice controlled, smart exoskeleton for a coffee machine (sponsored by IBM)
-            -	Studied the human perception of depth cues in 3D images, and associated performance improvements when incorporated into visual interfaces. Published and presented a paper at IEEE Symposium on Information Visualization (IV2017).
-            -	Developed a small-scale C to MIPS compiler in C++ using FLEX, BISON and a MIPS simulator
-            -	Developed my own single camera 2D-3D image conversion algorithm, and implemented this on an FPGA
-            -	Designed an automated water monitoring system for the Nepal Water for Health Challenge
-
+            - Built a robotic walking aid featuring obstacle avoidance and detection of falls and clinical gait disorders
+            - Built a voice controlled, smart exoskeleton for a coffee machine (sponsored by IBM)
+            - Studied the human perception of depth cues in 3D images, and associated performance improvements when incorporated into visual interfaces. Published and presented a paper at IEEE Symposium on Information Visualization (IV2017).
+            - Developed a small-scale C to MIPS compiler in C++ using FLEX, BISON and a MIPS simulator
+            - Developed my own single camera 2D-3D image conversion algorithm, and implemented this on an FPGA
+            - Designed an automated water monitoring system for the Nepal Water for Health Challenge
 
 - title: Positions Held
   type: time_table
@@ -50,54 +47,53 @@
       institution: Imperial College London, United Kingdom
       year: 2023-present
       description:
-        -	Conducted research into using haptic feedback and XR to support the training of dexterous medical skills, focusing on physical examinations.
-        -	Working towards deploying haptic medical simulations as part of the Imperial College medical curriculum.
-        -	Close collaboration with surgeons and clinical teaching staff in multiple disciplines.
-        -	Designing and executing user studies with both non-specialist and expert participants.
-        -	Led a team of three researchers investigating optimized 3D printing of lower limb prosthetics.
-        -	Co-Chair of the Imperial College Special Interest Group on XR in Education
-        -	Funded by the Imperial College Digital Innovation Fund
+        - Conducted research into using haptic feedback and XR to support the training of dexterous medical skills, focusing on physical examinations.
+        - Working towards deploying haptic medical simulations as part of the Imperial College medical curriculum.
+        - Close collaboration with surgeons and clinical teaching staff in multiple disciplines.
+        - Designing and executing user studies with both non-specialist and expert participants.
+        - Led a team of three researchers investigating optimized 3D printing of lower limb prosthetics.
+        - Funded by the Imperial College Digital Innovation Fund
 
     - title: Visiting Researcher
       institution: Seoul National University, South Korea
       year: 2024
       description:
-        -	Conducted research into soft, shape changing tactile displays to simulate medical lumps
-        -	Embedded in the HeRo (Healthcare Robotics) Lab
-        -	Funded by UKRI (UK) and NRF (Korea)
-
+        - Conducted research into soft, shape changing tactile displays to simulate medical lumps
+        - Embedded in the HeRo (Healthcare Robotics) Lab
+        - Funded by UKRI (UK) and NRF (Korea)
 
     - title: Co-Founder and Chief Engineer
       institution: Human Robotix Ltd., London, United Kingdom
       year: 2021-present
-        -	Designed and built a back-drivable wrist interface now being used in universities across the UK and Europe.
-        -	Co-founded Human Robotix Ltd. to sell this robot to researchers and clinicians.
-
+      description:
+        - Designed and built a back-drivable wrist interface now being used in universities across the UK and Europe.
+        - Co-founded Human Robotix Ltd. to sell this robot to researchers and clinicians.
 
     - title: Visiting Researcher
       institution: York University, Toronto, Canada
       year: 2022
       description:
-        -	Conducted research into haptic rendering of environmental information when controlling underwater ROVs.
-        -	Built and deployed an underwater robot, controlled by experimental haptic interfaces.
-        -	Designed and executed a user study investigating haptic presentation of environmental information to ROV operators. 
-        -	Funded by UKRI (UK) and Mitacs (Canada)
+        - Conducted research into haptic rendering of environmental information when controlling underwater ROVs.
+        - Built and deployed an underwater robot, controlled by experimental haptic interfaces.
+        - Designed and executed a user study investigating haptic presentation of environmental information to ROV operators. 
+        - Funded by UKRI (UK) and Mitacs (Canada)
 
     - title: Visiting Researcher
       institution: Royal London Dental Hospital, London, United Kingdom
       year: 2022
-        -	Designed an approved, 3D printable, reusable face shield visor for rapid manufacturing and deployment early in the COVID-19 pandemic. Made and delivered nearly 3000 of these to hospitals and clinics in London.
-        -	Designed and built a smartphone-based face scanner to automatically generate 3D printable, personalized face mask adapters and implemented a pipeline to automatically 3D print these for hospital staff.
-        -	Designed innovative 3D printable implants and models to support novel maxillofacial surgeries, now being used clinically. 
-        -	Designed and prototyped a personalisible, sensorised jaw exerciser to support jaw rehabilitation after surgery.
-        -	Developing biocompatible 3D printing materials for use in dentistry in collaboration with a market leader in 3D printing (project details under NDA).
+      description:
+        - Designed an approved, 3D printable, reusable face shield visor for rapid manufacturing and deployment early in the COVID-19 pandemic. Made and delivered nearly 3000 of these to hospitals and clinics in London.
+        - Designed and built a smartphone-based face scanner to automatically generate 3D printable, personalized face mask adapters and implemented a pipeline to automatically 3D print these for hospital staff.
+        - Designed innovative 3D printable implants and models to support novel maxillofacial surgeries, now being used clinically. 
+        - Designed and prototyped a personalisible, sensorised jaw exerciser to support jaw rehabilitation after surgery.
+        - Developing biocompatible 3D printing materials for use in dentistry in collaboration with a market leader in 3D printing (project details under NDA).
 
     - title: Research Assistant
       institution: Imperial College London, United Kingdom
       year: 2020-2021
-        -	Developing an affordable, portable, backdrivable force feedback interface for human motor control and haptics research and robotic physical rehabilitation.
-        -	Supervised by Professor Etienne Burdet
-
+      description:
+        - Developing an affordable, portable, backdrivable force feedback interface for human motor control and haptics research and robotic physical rehabilitation.
+        - Supervised by Professor Etienne Burdet
 
     - title: Teaching Assistant
       institution: Queen Mary University of London, United Kingdom
@@ -109,6 +105,7 @@
   contents:
     - year: 2024
       items:
+        - 2023 UK Best PhD in Robotics Award (joint 2nd place)
         - Honorable Mention for Best Paper, IEEE Haptics Symposium
     - year: 2021
       items:
@@ -136,32 +133,35 @@
 - title: Teaching
   type: nested_list
   contents:
-    title: Lecturing
-    items:
-      - Guest lecturer, Design and Control of Medical Robots, Seoul National University
-    title: Laboratory teaching
-    items:
-      - Roboics Design and Build Project, Queen Mary Unviersity of London
-      - Skills for Robotics Engineering, Queen Mary Unviersity of London
-      - Skills for Electronic Engineering, Queen Mary Unviersity of London
-      - Interaction Design, Queen Mary Unviersity of London
-      - Software Engineering group project, Queen Mary Unviersity of London
-    title: Supervision
-    items:
-      - I have supervised or co-supervised 15 research project students on MEng, MSc, MRes, BSc and iBSc programmes
-      - 4 of my past students recieved awards for their projects
-      - 1 of my past students has gone on to undertake a PhD relevant to their project
+    - title: Educational leadership
+      items:
+        - Co-chair, Imperial College Special Interest Group on Extended Reality in Education (2023-present)
+    - title: Lecturing
+      items:
+        - Guest lecturer, Design and Control of Medical Robots, Seoul National University
+    - title: Laboratory teaching
+      items:
+        - Roboics Design and Build Project, Queen Mary University of London
+        - Skills for Robotics Engineering, Queen Mary University of London
+        - Skills for Electronic Engineering, Queen Mary University of London
+        - Interaction Design, Queen Mary University of London
+        - Software Engineering group project, Queen Mary University of London
+    - title: Supervision
+      items:
+        - I have supervised or co-supervised 19 research project students on MRes, MSc, MEng, BEng, BSc and iBSc programmes
+        - 4 of my past students recieved awards for their projects
+        - 2 of my past students have gone on to undertake PhDs relevant to their projects
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
     - title: Haptics
       items:
         - Soft haptic devices
-        - Multimodal haptic interactions
+        - Multimodal haptic interfaces
         - Medical simulation using haptics
-        - Telerobotics
         - Haptic information representation
+        - Haptic assistance in telerobotics
     - title: Soft Robotics
       items:
         - Soft actuator design
@@ -170,5 +170,78 @@
       items:
         - Prosthetics
         - Personalised medical devices
-        - Rehabilitation robotics
+        - Robotics for rehabilitation
 
+
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Mechanical CAD
+      items:
+        - Fusion 360
+        - Solidworks
+        - Autodesk Inventor
+        - Siemens NX
+    - title: Electrical CAD
+      items:
+        - Autodesk Eagle
+        - Altium Designer
+    - title: Fabrication and Rapid Proptotyping
+      items:
+        - 3D printing (FDM, SLA, DLP)
+        - Laser cutting
+        - CNC machining (milling and turning)
+        - PCB manufacturing (chemical etching and milling)
+        - PCB assembly
+        - Water jet cutting
+        - Thermoforming plastics
+        - Casting silicone, plaster and metal
+        - Manual machining
+        - Preparation of engineering drawings
+        - General workshop skills
+    - title: Embedded Systems Development
+      items:
+        - Raspberry Pi
+        - STM32
+        - ESP32/ESP8266
+        - Arduino
+        - ARM mbed
+        - Altera FPGA
+    - title: Programming Languages
+      items:
+        - Python
+        - C/C++
+        - C#
+        - Java
+        - SQL
+    - title: Software Tools
+      items:
+        - Matlab
+        - Unity
+        - OpenCV
+        - OpenPose
+        - SFML
+        - AWS
+        - Git
+        - ROS
+        - LaTeX
+    - title: Specific Platforms and Technologies
+      items:
+        - BlueRobotics BlueROV2
+        - Human Robotix HRX-1
+        - Meta Quest (2,3,Pro)
+        - SenseGlove Nova
+        - Maxon EPOS/ESCON motion control
+        - Actronika HSD high-definition haptics controller
+        - HAAS CNC controller
+    - title: Other academic/research skills
+      items:
+        - Good clinical practice (clinical studies certification)
+        - Human participant studies
+        - Medical device certification (CE marking)
+        - IP management and commercialisation
+    - title: Other software
+      items:
+        - Adobe Illustrator
+        - Adobe Premiere Pro
