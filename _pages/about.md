@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Haptics Research Associate | Imperial College London
+subtitle: Haptics Researcher | Imperial College London
 
 profile:
   align: right
