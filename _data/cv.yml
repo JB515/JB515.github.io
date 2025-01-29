@@ -133,6 +133,9 @@
 - title: Teaching
   type: nested_list
   contents:
+    - title: Qualifications
+      items:
+        - •	Advance HE Fellowship (FHEA) status awarded January 2025
     - title: Educational leadership
       items:
         - Co-chair, Imperial College Special Interest Group on Extended Reality in Education (2023-present)
