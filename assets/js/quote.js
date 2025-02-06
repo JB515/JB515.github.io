@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
         let doy = Math.floor((date - new Date(date.getFullYear(), 0, 0)) / 1000 / 60 / 60 / 24);
         let idx = doy % json.length;
         let quote = json[idx];
-        document.getElementById('quote').innerHTML = '<blockquote class="not-prose"><p style="font-size: 14px;">' + quote.text + '</p><p style="font-size: 14px;"><em>- ' + quote.author + '</em></p></blockquote>';
+        document.getElementById('quote').innerHTML = '<blockquote class="not-prose"><p style="font-size: 18px;">' + quote.text + '</p><p style="font-size: 18px;"><em>- ' + quote.author + '</em></p></blockquote>';
     })
     .catch(res => {
         console.error('Could not fetch quotes.json'); 
