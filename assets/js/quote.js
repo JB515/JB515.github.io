@@ -1,6 +1,6 @@
 /** Load a daily quote to show on the home page */
 document.addEventListener('DOMContentLoaded', () => {
-    let response = fetch('/assets/quotes.json')
+    let response = fetch('quotes.json')
     .then(res => res.text())
     .then(data => {
         let json = JSON.parse(data);
