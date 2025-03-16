@@ -49,10 +49,18 @@
       description:
         - Conducted research into using haptic feedback and XR to support the training of dexterous medical skills, focusing on physical examinations.
         - Working towards deploying haptic medical simulations as part of the Imperial College medical curriculum.
-        - Close collaboration with surgeons and clinical teaching staff in multiple disciplines.
+        - Forging close collaboration with surgeons and clinical teaching staff in multiple disciplines.
+        - Instigated collaborations with leading universities in the USA and Asia.
         - Designing and executing user studies with both non-specialist and expert participants.
         - Led a team of three researchers investigating optimized 3D printing of lower limb prosthetics.
         - Funded by the Imperial College Digital Innovation Fund
+
+    - title: Visiting Scholar
+      institution: Massachusetts Institute of Technology, USA
+      year: 2025-present
+      description:
+        - Working on developing technologies for simultneously rendering temperature and softness in haptic interfaces.
+        - Funded by the Imperial College - MIT Global Seed Fund
 
     - title: Visiting Researcher
       institution: Seoul National University, South Korea
