@@ -43,9 +43,17 @@
 - title: Positions Held
   type: time_table
   contents:
+    - title: Research Fellow in Medical Robotics and Image Guided Intervention
+      institution: Imperial College London, United Kingdom
+      year: 2025-present
+      description:
+        - Leading research into applications of haptics, robotics and mechatronics in medicine
+        - PI/Co-PI for the POLAR and PatientSim funded projects
+        - Full member of the Hamlyn Centre for Robotic Surgery
+
     - title: Haptics Research Associate
       institution: Imperial College London, United Kingdom
-      year: 2023-present
+      year: 2023-2025
       description:
         - Conducted research into using haptic feedback and XR to support the training of dexterous medical skills, focusing on physical examinations.
         - Working towards deploying haptic medical simulations as part of the Imperial College medical curriculum.
