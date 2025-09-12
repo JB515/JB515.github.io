@@ -119,9 +119,13 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Best Poster, UK Robotics and Autonomous Systems Showcase
     - year: 2024
       items:
         - 2023 UK Best PhD in Robotics Award (joint 2nd place)
+        - Runner up for best poster, Hamlyn Symposium Workshop on Haptics in Medicine
         - Honorable Mention for Best Paper, IEEE Haptics Symposium
     - year: 2021
       items:
