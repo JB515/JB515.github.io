@@ -9,8 +9,8 @@ profile:
   image: joshua.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Chelsea and Westminster Hospital</p>
-    <p>369 Fulham Road,</p>
+    <p>Imperial College London</p>
+    <p>Exhibition Road,</p>
     <p>London, United Kingdom</p>
 
 news: true # includes a list of news items
