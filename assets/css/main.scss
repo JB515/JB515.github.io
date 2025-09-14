@@ -21,3 +21,15 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+
+/* Custom styling for the quote of the day */
+
+.quote-title {
+  margin-top: 20px;     /* Increases space ABOVE the title */
+  margin-bottom: 10px;   /* Reduces space BELOW the title */
+}
+
+#quote blockquote {
+  margin-top: 0;        /* Removes the default space at the top of the quote itself */
+}
