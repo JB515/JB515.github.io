@@ -29,11 +29,10 @@ The first model I was involed in creating was a simulation of a carpal tunnel pa
             <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/moulds.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
             <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/casting.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
             <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/hand.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/surgery-1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/surgery-2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/surgery-3.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/surgery-4.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/surgery-5.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/surgery-1.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/surgery-2.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/surgery-3.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/surgery-4.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
             <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/layers.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
             <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/3d-simulators/progress.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
         </swiper-container>
