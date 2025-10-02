@@ -161,7 +161,8 @@
         - Co-chair, Imperial College Special Interest Group on Extended Reality in Education (2023-present)
     - title: Lecturing
       items:
-        - Guest lecturer, Design and Control of Medical Robots, Seoul National University
+        - Guest lecturer, Advanced Medical Robotics, King's College London (2025)
+        - Guest lecturer, Design and Control of Medical Robots, Seoul National University (2024)
     - title: Laboratory teaching
       items:
         - Robotics Design and Build Project, Queen Mary University of London
@@ -182,18 +183,20 @@
       items:
         - Soft haptic devices
         - Multimodal haptic interfaces
-        - Medical simulation using haptics
         - Haptic information representation
-        - Haptic assistance in telerobotics
+        - Haptic assistance for telerobotics
+        - Medical simulation using haptics
     - title: Soft Robotics
       items:
         - Soft actuator design
         - Soft sensor design
+        - Soft wearable robots
     - title: Medical Robotics
       items:
         - Prosthetics
         - Personalised medical devices
         - Robotics for rehabilitation
+        - Medical device manufacturing
 
 
 
@@ -210,6 +213,7 @@
       items:
         - Autodesk Eagle
         - Altium Designer
+        - KiCAD
     - title: Fabrication and Rapid Proptotyping
       items:
         - 3D printing (FDM, SLA, DLP)
