@@ -150,15 +150,34 @@
       items:
         - Rolls-Royce Arkwright Engineering Scholarship
 
+- title: Media Coverage and Public Engagement
+  type: nested_list
+  contents:
+    - title: Media Coverage
+      items:
+        - Robots enhance upper limb therapy for patients with neurological conditions, Maxon Motors Blog, 2024
+        - Robots enhance upper limb therapy for patients with neurological conditions, Process & Control Today, 2024
+        - EECS PhD students secure joint 2nd place in UK Robotics Thesis Award, QMUL EECS, 2023
+        - Joshua Brown on Face Shield Visor production during COVID-19 (London), HESS, 2021
+        - Visors made at home by dentists to be rushed to front line, London Evening Standard, 2020
+        - 3D-printing protective equipment for COVID-19 NHS workers, Bart’s Health NHS Trust, 2020
+        - Engineers at Queen Mary 3D-print protective equipment for COVID-19 NHS workers, QMUL EECS, 2020
+    - title: Public Engagement
+      items:
+        - The Air Sculpture, exhibit at the Great Exhibition Road Festival, 2019
+        - The Tactile Mouse, exhibit at the Imperial College Festival, 2018
+        - Optical Illusions and Information Visualization, exhibit at the Imperial College Festival, 2017
+
 - title: Teaching
   type: nested_list
   contents:
     - title: Qualifications
       items:
-        - •	Advance HE Fellowship (FHEA) status awarded January 2025
+        - Advance HE Fellowship (FHEA) status awarded January 2025
     - title: Educational leadership
       items:
-        - Co-chair, Imperial College Special Interest Group on Extended Reality in Education (2023-present)
+        - Programme partner for Research Impact and Knowledge Exchange, Imperial College Early Career Research Institute (2025-present)
+        - Co-chair, Imperial College Special Interest Group on Extended Reality in Education (2023-2025)
     - title: Lecturing
       items:
         - Guest lecturer, Advanced Medical Robotics, King's College London (2025)
@@ -172,7 +191,7 @@
         - Software Engineering group project, Queen Mary University of London
     - title: Supervision
       items:
-        - I have supervised or co-supervised 19 research project students on MRes, MSc, MEng, BEng, BSc and iBSc programmes
+        - I have supervised or co-supervised 21 research project students on MRes, MSc, MEng, BEng, BSc and iBSc programmes
         - 4 of my past students recieved awards for their projects
         - 2 of my past students have gone on to undertake PhDs relevant to their projects
 
