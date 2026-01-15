@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Delighted to run the workshop "From virtual palpation to clinical integration: Exploring the role of touch in medicine and surgery" at the Hamlyn Symposium 2024. Amazing to see months of planning come to life! Many thanks to Prof. Roger Kneebone, Dr. Lynette Jones, Prof. Amy Kyungwon Han among many excellent speakers.
+Delighted to run the workshop "From virtual palpation to clinical integration: Exploring the role of touch in medicine and surgery" at the Hamlyn Symposium 2024. Amazing to see months of planning come to life! Many thanks to Prof. Roger Kneebone (Imperial) and Dr. Lynette Jones (MIT) among many excellent speakers.
