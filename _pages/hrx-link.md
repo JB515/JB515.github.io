@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Human Robotix
+title: SUPER Lab
 permalink: /hrx-link/
-description: A link to Human Robotix Ltd.
+description: A link to the SUPER Lab
 nav: false
 horizontal: false
 ---
